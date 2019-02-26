@@ -18,7 +18,7 @@ Adaptive Posterior Learning: few-shot learning with a surprise-based memory modu
 How To Train Your MAML [[paper](https://arxiv.org/pdf/1810.09502v1.pdf)]
   - Antreas Antoniou, Harrison Edwards, Amos Storkey -- ICLR 2019
 
-TADAM: Task dependent adaptive metric for improved few-shot learning
+TADAM: Task dependent adaptive metric for improved few-shot learning [[paper](https://arxiv.org/abs/1805.10123)]
   - Boris N. Oreshkin, Pau Rodriguez, Alexandre Lacoste --arXiv 2019
 
 Few-shot Learning with Meta Metric Learners
@@ -64,14 +64,14 @@ MetaReg: Towards Domain Generalization using Meta-Regularization [[paper](https:
   
 ## Domain Generation
 Learning to Generalize: Meta-Learning for Domain Generalization
-  -- Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M. Hospedales -- arXiv 2018
+  - Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M. Hospedales -- arXiv 2018
 
 ## Learning curves
 Meta-Curvature [[paper](https://arxiv.org/abs/1902.03356)]
   - Eunbyung Park, Junier B. Oliva --arXiv 2019
   
 ## Configuration transfer
-Toward Multimodal Model-Agnostic Meta-Learning [paper](https://arxiv.org/pdf/1812.07172.pdf)
+Toward Multimodal Model-Agnostic Meta-Learning [[paper](https://arxiv.org/pdf/1812.07172.pdf)]
   - Risto Vuorio, Shao-Hua Sun, Hexiang Hu, Joseph J. Lim
   
 
