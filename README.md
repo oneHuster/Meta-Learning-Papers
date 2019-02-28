@@ -50,7 +50,7 @@ Fast Task-Aware Architecture Inference
   - Efi Kokiopoulou, Anja Hauth, Luciano Sbaiz, Andrea Gesmundo, Gabor Bartok, Jesse Berent --arXiv 2019
 
 Bayesian Meta-network Architecture Learning
-  -- Albert Shaw, Bo Dai, Weiyang Liu, Le Song --arXiv 2018
+  - Albert Shaw, Bo Dai, Weiyang Liu, Le Song --arXiv 2018
   
 ## Task-dependent
 Fast Task-Aware Architecture Inference
