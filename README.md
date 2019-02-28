@@ -43,6 +43,9 @@ Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[paper](https
   - Chelsea Finn, Pieter Abbeel, Sergey Levine -- ICML 2016
   
 ## Architecture search
+Graph HyperNetworks for Neural Architecture Search [[paper](https://arxiv.org/abs/1810.05749)]
+  - Chris Zhang, Mengye Ren, Raquel Urtasun --ICLR 2019
+
 Fast Task-Aware Architecture Inference
   - Efi Kokiopoulou, Anja Hauth, Luciano Sbaiz, Andrea Gesmundo, Gabor Bartok, Jesse Berent --arXiv 2019
 
