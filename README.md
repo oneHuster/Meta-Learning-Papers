@@ -84,3 +84,7 @@ Toward Multimodal Model-Agnostic Meta-Learning [[paper](https://arxiv.org/pdf/18
 ## Model Compression
 N2N Learning: Network to Network Compression via Policy Gradient Reinforcement Learning
   - Anubhav Ashok, Nicholas Rhinehart, Fares Beainy, Kris M. Kitani --ICLR 2018
+
+## Proof
+Provable Guarantees for Gradient-Based Meta-Learning
+  -  Mikhail Khodak Maria-Florina Balcan Ameet Talwalkar --arXiv 2019 
