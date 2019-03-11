@@ -6,6 +6,9 @@ Meta-Learning: A Survey [[paper](https://arxiv.org/pdf/1810.03548.pdf)]
   - Joaquin Vanschoren
 
 ## Few-shot learning
+Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples
+  - Eleni Triantafillou, Tyler Zhu, Vincent Dumoulin, Pascal Lamblin, Kelvin Xu, Ross Goroshin, Carles Gelada, Kevin Swersky, Pierre-Antoine Manzagol, Hugo Larochelle  -- arXiv 2019
+ 
 Adaptive Cross-Modal Few-Shot Learning [[paper](https://arxiv.org/pdf/1902.07104.pdf)]
   - Chen Xing, Negar Rostamzadeh, Boris N. Oreshkin, Pedro O. Pinheiro --arXiv 2019
  
