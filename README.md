@@ -68,9 +68,19 @@ TADAM: Task dependent adaptive metric for improved few-shot learning
 MetaReg: Towards Domain Generalization using Meta-Regularization [[paper](https://papers.nips.cc/paper/7378-metareg-towards-domain-generalization-using-meta-regularization.pdf)]
   - Yogesh Balaji, Swami Sankaranarayanan -- NIPS 2018
   
-## Domain Generation
+## Domain generation
 Learning to Generalize: Meta-Learning for Domain Generalization
   - Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M. Hospedales -- arXiv 2018
+
+## Bayesian inference
+Probabilistic Model-Agnostic Meta-Learning [[paper](https://arxiv.org/pdf/1806.02817.pdf)]
+  - Chelsea Finn, Kelvin Xu, Sergey Levine  --arXiv 2018
+
+Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions [[paper](https://arxiv.org/abs/1710.10304)]
+  - Scott Reed, Yutian Chen, Thomas Paine, Aäron van den Oord, S. M. Ali Eslami, Danilo Rezende, Oriol Vinyals, Nando de Freitas --ICLR 2018
+
+Bayesian Model-Agnostic Meta-Learning [[paper](https://arxiv.org/abs/1806.03836)]
+  - Taesup Kim, Jaesik Yoon, Ousmane Dia, Sungwoong Kim, Yoshua Bengio, Sungjin Ahn -- NIPS 2018
 
 ## Learning curves
 Meta-Curvature [[paper](https://arxiv.org/abs/1902.03356)]
@@ -81,7 +91,7 @@ Toward Multimodal Model-Agnostic Meta-Learning [[paper](https://arxiv.org/pdf/18
   - Risto Vuorio, Shao-Hua Sun, Hexiang Hu, Joseph J. Lim
   
 
-## Model Compression
+## Model compression
 N2N Learning: Network to Network Compression via Policy Gradient Reinforcement Learning
   - Anubhav Ashok, Nicholas Rhinehart, Fares Beainy, Kris M. Kitani --ICLR 2018
 
