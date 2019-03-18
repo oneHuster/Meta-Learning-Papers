@@ -15,6 +15,9 @@ Adaptive Cross-Modal Few-Shot Learning [[paper](https://arxiv.org/pdf/1902.07104
 Learning to Propagate Labels: Transductive Propagation Network for Few-shot Learning [[paper](https://arxiv.org/pdf/1805.10002.pdf)]
   - Yanbin Liu, Juho Lee, Minseop Park, Saehoon Kim, Eunho Yang, Sung Ju Hwang, Yi Yang -- ICLR 2019
 
+Dynamic Few-Shot Visual Learning without Forgetting [[paper](https://arxiv.org/pdf/1804.09458v1.pdf)]
+  - Spyros Gidaris, Nikos Komodakis --arXiv 2019
+  
 Adaptive Posterior Learning: few-shot learning with a surprise-based memory module
   - Tiago Ramalho, Marta Garnelo --ICLR 2019
 
@@ -33,8 +36,8 @@ Learning Embedding Adaptation for Few-Shot Learning [[paper](https://arxiv.org/p
 Meta-Transfer Learning for Few-Shot Learning [[paper](https://arxiv.org/pdf/1812.02391.pdf)]
   - Qianru Sun, Yaoyao Liu, Tat-Seng Chu, Bernt Schiele -- arXiv 2018
 
-Dynamic Few-Shot Visual Learning without Forgetting [[paper](https://arxiv.org/pdf/1804.09458v1.pdf)]
-  - Spyros Gidaris, Nikos Komodakis --arXiv 2019
+Task-Agnostic Meta-Learning for Few-shot Learning
+  - Muhammad Abdullah Jamal, Guo-Jun Qi, and Mubarak Shah  --arXiv 2018
 
 Few-Shot Learning with Graph Neural Networks [[paper](https://arxiv.org/abs/1711.04043)]
   - Victor Garcia, Joan Bruna -- ICLR 2018
