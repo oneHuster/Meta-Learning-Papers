@@ -6,6 +6,10 @@ Meta-Learning: A Survey [[paper](https://arxiv.org/pdf/1810.03548.pdf)]
   - Joaquin Vanschoren
 
 ## Few-shot learning
+
+Dense Classification and Implanting for Few-Shot Learning [[paper](https://arxiv.org/pdf/1903.05050.pdf)]
+  - Yann Lifchitz, Yannis Avrithis, Sylvaine Picard, Andrei Bursuc --CVPR 2019
+
 Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples
   - Eleni Triantafillou, Tyler Zhu, Vincent Dumoulin, Pascal Lamblin, Kelvin Xu, Ross Goroshin, Carles Gelada, Kevin Swersky, Pierre-Antoine Manzagol, Hugo Larochelle  -- arXiv 2019
  
