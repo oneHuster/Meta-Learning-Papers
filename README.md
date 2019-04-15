@@ -7,6 +7,9 @@ Meta-Learning: A Survey [[paper](https://arxiv.org/pdf/1810.03548.pdf)]
 
 ## Few-shot learning
 
+Meta-Learning with Differentiable Convex Optimization [[paper](https://arxiv.org/abs/1904.03758)]
+  - Kwonjoon Lee, Subhransu Maji, Avinash Ravichandran, Stefano Soatto --CVPR 2019
+
 Dense Classification and Implanting for Few-Shot Learning [[paper](https://arxiv.org/pdf/1903.05050.pdf)]
   - Yann Lifchitz, Yannis Avrithis, Sylvaine Picard, Andrei Bursuc --CVPR 2019
 
