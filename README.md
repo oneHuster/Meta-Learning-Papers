@@ -6,6 +6,11 @@ Meta-Learning: A Survey [[paper](https://arxiv.org/pdf/1810.03548.pdf)]
   - Joaquin Vanschoren
 
 ## Few-shot learning
+Variational Prototyping-Encoder: One-Shot Learning with Prototypical Images [[paper](https://arxiv.org/abs/1904.08482)]
+  - Junsik Kim, Tae-Hyun Oh, Seokju Lee, Fei Pan, In So Kweon --CVPR 2019
+
+LCC: Learning to Customize and Combine Neural Networks for Few-Shot Learning [[paper](https://arxiv.org/pdf/1904.08479.pdf)]
+  - Yaoyao Liu, Qianru Sun, An-An Liu, Yuting Su, Bernt Schiele, Tat-Seng Chua --CVPR 2019
 
 Meta-Learning with Differentiable Convex Optimization [[paper](https://arxiv.org/abs/1904.03758)]
   - Kwonjoon Lee, Subhransu Maji, Avinash Ravichandran, Stefano Soatto --CVPR 2019
@@ -100,6 +105,9 @@ Meta-Curvature [[paper](https://arxiv.org/abs/1902.03356)]
 Toward Multimodal Model-Agnostic Meta-Learning [[paper](https://arxiv.org/pdf/1812.07172.pdf)]
   - Risto Vuorio, Shao-Hua Sun, Hexiang Hu, Joseph J. Lim
   
+## Hyperparameter
+LCC: Learning to Customize and Combine Neural Networks for Few-Shot Learning [[paper](https://arxiv.org/pdf/1904.08479.pdf)]
+  - Yaoyao Liu, Qianru Sun, An-An Liu, Yuting Su, Bernt Schiele, Tat-Seng Chua --CVPR 2019
 
 ## Model compression
 N2N Learning: Network to Network Compression via Policy Gradient Reinforcement Learning
