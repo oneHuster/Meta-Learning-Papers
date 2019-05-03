@@ -88,6 +88,9 @@ Learning to Generalize: Meta-Learning for Domain Generalization
   - Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M. Hospedales -- arXiv 2018
 
 ## Bayesian inference
+Amortized Bayesian Meta-Learning [[paper](https://openreview.net/pdf?id=rkgpy3C5tX)]
+  - Sachin Ravi, Alex Beatson --ICLR 2019
+
 Probabilistic Model-Agnostic Meta-Learning [[paper](https://arxiv.org/pdf/1806.02817.pdf)]
   - Chelsea Finn, Kelvin Xu, Sergey Levine  --arXiv 2018
 
@@ -104,6 +107,9 @@ Meta-Curvature [[paper](https://arxiv.org/abs/1902.03356)]
 ## Configuration transfer
 Toward Multimodal Model-Agnostic Meta-Learning [[paper](https://arxiv.org/pdf/1812.07172.pdf)]
   - Risto Vuorio, Shao-Hua Sun, Hexiang Hu, Joseph J. Lim
+  
+Meta-Learning Update Rules for Unsupervised Representation Learning [[paper](https://arxiv.org/pdf/1812.07172.pdf)]
+  - Luke Metz, Niru Maheswaranathan, Brian Cheung, Jascha Sohl-Dickstein ICLR 2019
   
 ## Hyperparameter
 LCC: Learning to Customize and Combine Neural Networks for Few-Shot Learning [[paper](https://arxiv.org/pdf/1904.08479.pdf)]
