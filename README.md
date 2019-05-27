@@ -7,7 +7,7 @@ Meta-Learning: A Survey [[paper](https://arxiv.org/pdf/1810.03548.pdf)]
 
 ## Few-shot learning
 Learning to Learn with Conditional Class Dependencies  [[paper](https://openreview.net/pdf?id=BJfOXnActQ)]
-  - Xiang Jiang, Mohammad Havaei, Farshid Varno, Gabriel Chartrand, Nicolas Chapados, Stan Matwin
+  - Xiang Jiang, Mohammad Havaei, Farshid Varno, Gabriel Chartrand, Nicolas Chapados, Stan Matwin --ICLR 2019
 
 Variational Prototyping-Encoder: One-Shot Learning with Prototypical Images [[paper](https://arxiv.org/abs/1904.08482)]
   - Junsik Kim, Tae-Hyun Oh, Seokju Lee, Fei Pan, In So Kweon --CVPR 2019
