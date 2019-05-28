@@ -6,6 +6,10 @@ Meta-Learning: A Survey [[paper](https://arxiv.org/pdf/1810.03548.pdf)]
   - Joaquin Vanschoren
 
 ## Few-shot learning
+
+TapNet: Neural Network Augmented with Task-Adaptive Projection for Few-Shot Learning [[paper](https://arxiv.org/pdf/1905.06549.pdf)]
+  - Sung Whan Yoon, Jun Seo, Jaekyun Moon --ICML 2019
+
 Learning to Learn with Conditional Class Dependencies  [[paper](https://openreview.net/pdf?id=BJfOXnActQ)]
   - Xiang Jiang, Mohammad Havaei, Farshid Varno, Gabriel Chartrand, Nicolas Chapados, Stan Matwin --ICLR 2019
 
@@ -74,6 +78,9 @@ Bayesian Meta-network Architecture Learning
   - Albert Shaw, Bo Dai, Weiyang Liu, Le Song --arXiv 2018
   
 ## Task-dependent
+TapNet: Neural Network Augmented with Task-Adaptive Projection for Few-Shot Learning [[paper](https://arxiv.org/pdf/1905.06549.pdf)]
+  - Sung Whan Yoon, Jun Seo, Jaekyun Moon --ICML 2019
+
 Fast Task-Aware Architecture Inference
   - Efi Kokiopoulou, Anja Hauth, Luciano Sbaiz, Andrea Gesmundo, Gabor Bartok, Jesse Berent --arXiv 2019
 
@@ -85,6 +92,20 @@ TADAM: Task dependent adaptive metric for improved few-shot learning
   
 MetaReg: Towards Domain Generalization using Meta-Regularization [[paper](https://papers.nips.cc/paper/7378-metareg-towards-domain-generalization-using-meta-regularization.pdf)]
   - Yogesh Balaji, Swami Sankaranarayanan -- NIPS 2018
+### Heterogeneous task
+Hierarchically Structured Meta-learning [[paper](https://arxiv.org/pdf/1905.05301.pdf)]
+  - Huaxiu Yao, Ying Wei, Junzhou Huang, Zhenhui Li --ICML 2019
+
+Hierarchical Meta Learning [[paper](https://arxiv.org/abs/1904.09081)]
+  - Yingtian Zou, Jiashi Feng  --arXiv 2019
+
+## Lifelong learning
+Hierarchically Structured Meta-learning [[paper](https://arxiv.org/pdf/1905.05301.pdf)]
+  - Huaxiu Yao, Ying Wei, Junzhou Huang, Zhenhui Li --ICML 2019
+
+A Neural-Symbolic Architecture for Inverse Graphics Improved by Lifelong Meta-Learning [[paper](https://arxiv.org/pdf/1905.08910.pdf)]
+  - Michael Kissner, Helmut Mayer --arXiv 2019
+
   
 ## Domain generation
 Learning to Generalize: Meta-Learning for Domain Generalization
@@ -108,6 +129,10 @@ Meta-Curvature [[paper](https://arxiv.org/abs/1902.03356)]
   - Eunbyung Park, Junier B. Oliva --arXiv 2019
   
 ## Configuration transfer
+
+Zero-Shot Knowledge Distillation in Deep Networks [[paper](https://arxiv.org/pdf/1905.08114.pdf)]
+  - Gaurav Kumar Nayak *, Konda Reddy Mopuri, Vaisakh Shaj, R. Venkatesh Babu, Anirban Chakraborty --ICML 2019
+
 Toward Multimodal Model-Agnostic Meta-Learning [[paper](https://arxiv.org/pdf/1812.07172.pdf)]
   - Risto Vuorio, Shao-Hua Sun, Hexiang Hu, Joseph J. Lim
   
