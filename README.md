@@ -66,7 +66,11 @@ Prototypical Networks for Few-shot Learning [[paper](https://arxiv.org/pdf/1703.
   
 Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[paper](https://arxiv.org/abs/1703.03400)]
   - Chelsea Finn, Pieter Abbeel, Sergey Levine -- ICML 2016
-  
+
+### Large scale dataset
+Image Deformation Meta-Networks for One-Shot Learning [[paper](https://arxiv.org/pdf/1905.11641.pdf)]
+  - Zitian Chen, Yanwei Fu, Yu-Xiong Wang, Lin Ma, Wei Liu, Martial Hebert --CVPR 2019
+
 ## Architecture search
 Graph HyperNetworks for Neural Architecture Search [[paper](https://arxiv.org/abs/1810.05749)]
   - Chris Zhang, Mengye Ren, Raquel Urtasun --ICLR 2019
