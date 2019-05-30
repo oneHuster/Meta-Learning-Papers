@@ -140,7 +140,7 @@ Zero-Shot Knowledge Distillation in Deep Networks [[paper](https://arxiv.org/pdf
 Toward Multimodal Model-Agnostic Meta-Learning [[paper](https://arxiv.org/pdf/1812.07172.pdf)]
   - Risto Vuorio, Shao-Hua Sun, Hexiang Hu, Joseph J. Lim
   
-Meta-Learning Update Rules for Unsupervised Representation Learning [[paper](https://arxiv.org/pdf/1812.07172.pdf)]
+Meta-Learning Update Rules for Unsupervised Representation Learning [[paper](https://openreview.net/pdf?id=HkNDsiC9KQ)]
   - Luke Metz, Niru Maheswaranathan, Brian Cheung, Jascha Sohl-Dickstein ICLR 2019
   
 ## Hyperparameter
