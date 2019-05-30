@@ -71,6 +71,10 @@ Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[paper](https
 Image Deformation Meta-Networks for One-Shot Learning [[paper](https://arxiv.org/pdf/1905.11641.pdf)]
   - Zitian Chen, Yanwei Fu, Yu-Xiong Wang, Lin Ma, Wei Liu, Martial Hebert --CVPR 2019
 
+### Imbalance class
+Learning to Model the Tail [[paper](https://papers.nips.cc/paper/7278-learning-to-model-the-tail.pdf)]
+  - Yu-Xiong Wang, Deva Ramanan, Martial Hebert --NeurIPS 2017
+
 ## Architecture search
 Graph HyperNetworks for Neural Architecture Search [[paper](https://arxiv.org/abs/1810.05749)]
   - Chris Zhang, Mengye Ren, Raquel Urtasun --ICLR 2019
