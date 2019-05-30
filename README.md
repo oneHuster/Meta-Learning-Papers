@@ -128,6 +128,9 @@ Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributi
 Bayesian Model-Agnostic Meta-Learning [[paper](https://arxiv.org/abs/1806.03836)]
   - Taesup Kim, Jaesik Yoon, Ousmane Dia, Sungwoong Kim, Yoshua Bengio, Sungjin Ahn -- NIPS 2018
 
+Meta-learning by adjusting priors based on extended PAC-Bayes theory [[paper](https://arxiv.org/pdf/1711.01244.pdf)]
+  - Ron Amit , Ron Meir --ICML 2018
+
 ## Learning curves
 Meta-Curvature [[paper](https://arxiv.org/abs/1902.03356)]
   - Eunbyung Park, Junier B. Oliva --arXiv 2019
@@ -154,3 +157,6 @@ N2N Learning: Network to Network Compression via Policy Gradient Reinforcement L
 ## Proof
 Provable Guarantees for Gradient-Based Meta-Learning
   -  Mikhail Khodak Maria-Florina Balcan Ameet Talwalkar --arXiv 2019 
+
+Meta-learning by adjusting priors based on extended PAC-Bayes theory [[paper](https://arxiv.org/pdf/1711.01244.pdf)]
+  - Ron Amit , Ron Meir --ICML 2018
