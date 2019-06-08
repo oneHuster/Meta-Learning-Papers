@@ -159,13 +159,11 @@ N2N Learning: Network to Network Compression via Policy Gradient Reinforcement L
   - Anubhav Ashok, Nicholas Rhinehart, Fares Beainy, Kris M. Kitani --ICLR 2018
 
 ## Proof
-Fast Rates by Transferring from Auxiliary Hypotheses [[paper](Fast Rates by Transferring from Auxiliary Hypotheses)]
-  - Ilja Kuzborskij, Francesco Orabona --ICML 2019
-
 Provable Guarantees for Gradient-Based Meta-Learning
   -  Mikhail Khodak Maria-Florina Balcan Ameet Talwalkar --arXiv 2019 
 
 Meta-learning by adjusting priors based on extended PAC-Bayes theory [[paper](https://arxiv.org/pdf/1711.01244.pdf)]
   - Ron Amit , Ron Meir --ICML 2018
   
-
+Fast Rates by Transferring from Auxiliary Hypotheses [[paper](https://arxiv.org/pdf/1412.1619.pdf)]
+  - Ilja Kuzborskij, Francesco Orabona --arXiv 2014
