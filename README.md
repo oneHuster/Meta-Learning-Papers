@@ -1,5 +1,5 @@
 # MetaLearningPapers
-A summary of meta learning papers accoding to taxonomic category. Sorted by arXiv submission date.
+A summary of meta learning papers based on taxonomic category. Sorted by submit date arXiv.
 
 ## Survey
 Meta-Learning: A Survey [[paper](https://arxiv.org/pdf/1810.03548.pdf)]
