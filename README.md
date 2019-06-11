@@ -158,7 +158,10 @@ LCC: Learning to Customize and Combine Neural Networks for Few-Shot Learning [[p
 N2N Learning: Network to Network Compression via Policy Gradient Reinforcement Learning
   - Anubhav Ashok, Nicholas Rhinehart, Fares Beainy, Kris M. Kitani --ICLR 2018
 
-## Proof
+## Theory
+Adaptive Gradient-Based Meta-Learning Methods[[paper](https://arxiv.org/pdf/1906.02717.pdf)]
+  - Mikhail Khodak, Maria-Florina Balcan, Ameet Talwalkar --arXiv 2019
+
 Provable Guarantees for Gradient-Based Meta-Learning
   -  Mikhail Khodak Maria-Florina Balcan Ameet Talwalkar --arXiv 2019 
 
