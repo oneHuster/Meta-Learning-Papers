@@ -158,15 +158,32 @@ LCC: Learning to Customize and Combine Neural Networks for Few-Shot Learning [[p
 N2N Learning: Network to Network Compression via Policy Gradient Reinforcement Learning
   - Anubhav Ashok, Nicholas Rhinehart, Fares Beainy, Kris M. Kitani --ICLR 2018
 
+## Kernel learning
+Deep Mean Functions for Meta-Learning in Gaussian Processes [[paper](https://arxiv.org/pdf/1901.08098.pdf)]
+  - Vincent Fortuin, Gunnar Rätsch --arXiv 2019
+
+Kernel Learning and Meta Kernels for Transfer Learning  [[paper](http://www1.icsi.berkeley.edu/~rueckert/papers/rueckert09kernel)]
+  - Ulrich Ruckert
+
 ## Theory
+Meta-learning by adjusting priors based on extended PAC-Bayes theory [[paper](https://arxiv.org/pdf/1711.01244.pdf)]
+  - Ron Amit , Ron Meir --ICML 2018
+
+Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm[[paper](https://arxiv.org/pdf/1710.11622.pdf)]
+  - Chelsea Finn, Sergey Levine --ICLR 2018
+
+On the Convergence of Model-Agnostic Meta-Learning [[paper](http://noahgolmant.com/writings/maml.pdf)]
+  - Noah Golmant
+
+Fast Rates by Transferring from Auxiliary Hypotheses [[paper](https://arxiv.org/pdf/1412.1619.pdf)]
+  - Ilja Kuzborskij, Francesco Orabona --arXiv 2014
+
+### Online convex optimization
 Adaptive Gradient-Based Meta-Learning Methods[[paper](https://arxiv.org/pdf/1906.02717.pdf)]
   - Mikhail Khodak, Maria-Florina Balcan, Ameet Talwalkar --arXiv 2019
 
+Learning-to-Learn Stochastic Gradient Descent with Biased Regularization [[paper](https://arxiv.org/abs/1903.10399)]
+  - Giulia Denevi, Carlo Ciliberto, Riccardo Grazzi, Massimiliano Pontil  --arXiv 2019
+
 Provable Guarantees for Gradient-Based Meta-Learning
   -  Mikhail Khodak Maria-Florina Balcan Ameet Talwalkar --arXiv 2019 
-
-Meta-learning by adjusting priors based on extended PAC-Bayes theory [[paper](https://arxiv.org/pdf/1711.01244.pdf)]
-  - Ron Amit , Ron Meir --ICML 2018
-  
-Fast Rates by Transferring from Auxiliary Hypotheses [[paper](https://arxiv.org/pdf/1412.1619.pdf)]
-  - Ilja Kuzborskij, Francesco Orabona --arXiv 2014
