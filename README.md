@@ -36,7 +36,10 @@ Learning to Propagate Labels: Transductive Propagation Network for Few-shot Lear
 
 Dynamic Few-Shot Visual Learning without Forgetting [[paper](https://arxiv.org/pdf/1804.09458v1.pdf)]
   - Spyros Gidaris, Nikos Komodakis --arXiv 2019
-  
+
+Meta Learning with Lantent Embedding Optimization [[paper](https://openreview.net/pdf?id=BJgklhAcK7)]
+  -Andrei A. Rusu, Dushyant Rao, Jakub Sygnowski, Oriol Vinyals, Razvan Pascanu, Simon Osindero & Raia Hadsell --ICLR 2019
+
 Adaptive Posterior Learning: few-shot learning with a surprise-based memory module
   - Tiago Ramalho, Marta Garnelo --ICLR 2019
 
