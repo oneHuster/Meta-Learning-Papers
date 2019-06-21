@@ -5,6 +5,9 @@ A summary of meta learning papers based on taxonomic category. Sorted by submitt
 Meta-Learning: A Survey [[paper](https://arxiv.org/pdf/1810.03548.pdf)]
   - Joaquin Vanschoren
 
+Meta-learners’ learning dynamics are unlike learners’  [[paper](https://arxiv.org/pdf/1905.01320.pdf)]
+  - Neil C. Rabinowitz
+
 ## Few-shot learning
 
 TapNet: Neural Network Augmented with Task-Adaptive Projection for Few-Shot Learning [[paper](https://arxiv.org/pdf/1905.06549.pdf)]
