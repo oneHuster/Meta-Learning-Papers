@@ -144,15 +144,21 @@ Meta-Curvature [[paper](https://arxiv.org/abs/1902.03356)]
   
 ## Configuration transfer
 
+Fast Context Adaptation via Meta-Learning [[paper](https://arxiv.org/pdf/1810.03642.pdf)]
+  - Luisa M Zintgraf, Kyriacos Shiarlis, Vitaly Kurin, Katja Hofmann, Shimon Whiteson  --ICML 2019
+
 Zero-Shot Knowledge Distillation in Deep Networks [[paper](https://arxiv.org/pdf/1905.08114.pdf)]
   - Gaurav Kumar Nayak *, Konda Reddy Mopuri, Vaisakh Shaj, R. Venkatesh Babu, Anirban Chakraborty --ICML 2019
 
 Toward Multimodal Model-Agnostic Meta-Learning [[paper](https://arxiv.org/pdf/1812.07172.pdf)]
-  - Risto Vuorio, Shao-Hua Sun, Hexiang Hu, Joseph J. Lim
+  - Risto Vuorio, Shao-Hua Sun, Hexiang Hu, Joseph J. Lim  --arXiv 2019
   
 Meta-Learning Update Rules for Unsupervised Representation Learning [[paper](https://openreview.net/pdf?id=HkNDsiC9KQ)]
-  - Luke Metz, Niru Maheswaranathan, Brian Cheung, Jascha Sohl-Dickstein ICLR 2019
-  
+  - Luke Metz, Niru Maheswaranathan, Brian Cheung, Jascha Sohl-Dickstein --ICLR 2019
+
+Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace [[paper](https://arxiv.org/abs/1903.08254)]
+  -Kate Rakelly, Aurick Zhou, Deirdre Quillen, Chelsea Finn, Sergey Levine  --ICML 2018
+
 ## Hyperparameter
 LCC: Learning to Customize and Combine Neural Networks for Few-Shot Learning [[paper](https://arxiv.org/pdf/1904.08479.pdf)]
   - Yaoyao Liu, Qianru Sun, An-An Liu, Yuting Su, Bernt Schiele, Tat-Seng Chua --CVPR 2019
