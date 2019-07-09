@@ -129,6 +129,9 @@ Learning to Generalize: Meta-Learning for Domain Generalization
 Amortized Bayesian Meta-Learning [[paper](https://openreview.net/pdf?id=rkgpy3C5tX)]
   - Sachin Ravi, Alex Beatson --ICLR 2019
 
+Meta-Learning Priors for Efficient Online Bayesian Regression [[paper](https://arxiv.org/abs/1807.08912)]
+  - James Harrison, Apoorva Sharma, Marco Pavone --WAFR 2018
+
 Probabilistic Model-Agnostic Meta-Learning [[paper](https://arxiv.org/pdf/1806.02817.pdf)]
   - Chelsea Finn, Kelvin Xu, Sergey Levine  --arXiv 2018
 
