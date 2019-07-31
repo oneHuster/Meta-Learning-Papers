@@ -129,12 +129,18 @@ Hierarchical Meta Learning [[paper](https://arxiv.org/abs/1904.09081)]
   - Yingtian Zou, Jiashi Feng  --arXiv 2019
 
 ## Lifelong learning
+
+Online Meta-Learning [[paper](https://arxiv.org/abs/1902.08438)]
+  - Chelsea Finn, Aravind Rajeswaran, Sham Kakade, Sergey Levine  --ICML 2019
+
 Hierarchically Structured Meta-learning [[paper](https://arxiv.org/pdf/1905.05301.pdf)]
   - Huaxiu Yao, Ying Wei, Junzhou Huang, Zhenhui Li --ICML 2019
 
 A Neural-Symbolic Architecture for Inverse Graphics Improved by Lifelong Meta-Learning [[paper](https://arxiv.org/pdf/1905.08910.pdf)]
   - Michael Kissner, Helmut Mayer --arXiv 2019
 
+Incremental Learning-to-Learn with Statistical Guarantees [[paper](http://auai.org/uai2018/proceedings/papers/181.pdf)]
+  - Giulia Denevi, Carlo Ciliberto, Dimitris Stamos, Massimiliano Pontil --arXiv 2018
   
 ## Domain generation
 Learning to Generalize: Meta-Learning for Domain Generalization
