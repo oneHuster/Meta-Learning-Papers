@@ -15,6 +15,9 @@ TapNet: Neural Network Augmented with Task-Adaptive Projection for Few-Shot Lear
 
 Learning to Learn with Conditional Class Dependencies  [[paper](https://openreview.net/pdf?id=BJfOXnActQ)]
   - Xiang Jiang, Mohammad Havaei, Farshid Varno, Gabriel Chartrand, Nicolas Chapados, Stan Matwin --ICLR 2019
+ 
+TAFE-Net: Task-Aware Feature Embeddings for Low Shot Learning [[paper](https://arxiv.org/abs/1904.05967)]
+  - Xin Wang, Fisher Yu, Ruth Wang, Trevor Darrell, Joseph E. Gonzalez --CVPR 2019
 
 Variational Prototyping-Encoder: One-Shot Learning with Prototypical Images [[paper](https://arxiv.org/abs/1904.08482)]
   - Junsik Kim, Tae-Hyun Oh, Seokju Lee, Fei Pan, In So Kweon --CVPR 2019
@@ -33,6 +36,12 @@ Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples
  
 Adaptive Cross-Modal Few-Shot Learning [[paper](https://arxiv.org/pdf/1902.07104.pdf)]
   - Chen Xing, Negar Rostamzadeh, Boris N. Oreshkin, Pedro O. Pinheiro --arXiv 2019
+
+Meta-Learning with Latent Embedding Optimization [[paper](https://arxiv.org/abs/1807.05960)]
+  - Andrei A. Rusu, Dushyant Rao, Jakub Sygnowski, Oriol Vinyals, Razvan Pascanu, Simon Osindero, Raia Hadsell -- ICLR 2019
+ 
+A Closer Look at Few-shot Classification [[paper](https://arxiv.org/abs/1904.04232)]
+  - Wei-Yu Chen, Yen-Cheng Liu, Zsolt Kira, Yu-Chiang Frank Wang, Jia-Bin Huang  -- ICLR 2019
  
 Learning to Propagate Labels: Transductive Propagation Network for Few-shot Learning [[paper](https://arxiv.org/pdf/1805.10002.pdf)]
   - Yanbin Liu, Juho Lee, Minseop Park, Saehoon Kim, Eunho Yang, Sung Ju Hwang, Yi Yang -- ICLR 2019
@@ -92,8 +101,14 @@ Bayesian Meta-network Architecture Learning
   - Albert Shaw, Bo Dai, Weiyang Liu, Le Song --arXiv 2018
   
 ## Task-dependent
+TAFE-Net: Task-Aware Feature Embeddings for Low Shot Learning [[paper](https://arxiv.org/abs/1904.05967)]
+  - Xin Wang, Fisher Yu, Ruth Wang, Trevor Darrell, Joseph E. Gonzalez --CVPR 2019
+
 TapNet: Neural Network Augmented with Task-Adaptive Projection for Few-Shot Learning [[paper](https://arxiv.org/pdf/1905.06549.pdf)]
   - Sung Whan Yoon, Jun Seo, Jaekyun Moon --ICML 2019
+
+Meta-Learning with Latent Embedding Optimization [[paper](https://arxiv.org/abs/1807.05960)]
+  - Andrei A. Rusu, Dushyant Rao, Jakub Sygnowski, Oriol Vinyals, Razvan Pascanu, Simon Osindero, Raia Hadsell -- ICLR 2019
 
 Fast Task-Aware Architecture Inference
   - Efi Kokiopoulou, Anja Hauth, Luciano Sbaiz, Andrea Gesmundo, Gabor Bartok, Jesse Berent --arXiv 2019
@@ -158,6 +173,10 @@ Zero-Shot Knowledge Distillation in Deep Networks [[paper](https://arxiv.org/pdf
 
 Toward Multimodal Model-Agnostic Meta-Learning [[paper](https://arxiv.org/pdf/1812.07172.pdf)]
   - Risto Vuorio, Shao-Hua Sun, Hexiang Hu, Joseph J. Lim  --arXiv 2019
+
+### Unsupervised learning
+Unsupervised Learning via Meta-Learning [[paper](https://arxiv.org/abs/1810.02334)]
+  - Kyle Hsu, Sergey Levine, Chelsea Finn -- ICLR 2019
   
 Meta-Learning Update Rules for Unsupervised Representation Learning [[paper](https://openreview.net/pdf?id=HkNDsiC9KQ)]
   - Luke Metz, Niru Maheswaranathan, Brian Cheung, Jascha Sohl-Dickstein --ICLR 2019
@@ -181,6 +200,9 @@ Kernel Learning and Meta Kernels for Transfer Learning  [[paper](http://www1.ics
   - Ulrich Ruckert
 
 ## Theory
+Meta-learners' learning dynamics are unlike learners' [[paper](https://arxiv.org/abs/1905.01320)]
+  - Neil C. Rabinowitz --arXiv 2019
+
 Meta-learning by adjusting priors based on extended PAC-Bayes theory [[paper](https://arxiv.org/pdf/1711.01244.pdf)]
   - Ron Amit , Ron Meir --ICML 2018
 
