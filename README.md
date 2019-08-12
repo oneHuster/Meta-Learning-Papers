@@ -209,6 +209,9 @@ Kernel Learning and Meta Kernels for Transfer Learning  [[paper](http://www1.ics
 Meta-learners' learning dynamics are unlike learners' [[paper](https://arxiv.org/abs/1905.01320)]
   - Neil C. Rabinowitz --arXiv 2019
 
+Incremental Learning-to-Learn with Statistical Guarantees [[paper](https://arxiv.org/abs/1803.08089)]
+  - Giulia Denevi, Carlo Ciliberto, Dimitris Stamos, Massimiliano Pontil  --UAI 2018
+
 Meta-learning by adjusting priors based on extended PAC-Bayes theory [[paper](https://arxiv.org/pdf/1711.01244.pdf)]
   - Ron Amit , Ron Meir --ICML 2018
 
