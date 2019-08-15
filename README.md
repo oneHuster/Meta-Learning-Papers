@@ -224,6 +224,9 @@ On the Convergence of Model-Agnostic Meta-Learning [[paper](http://noahgolmant.c
 Fast Rates by Transferring from Auxiliary Hypotheses [[paper](https://arxiv.org/pdf/1412.1619.pdf)]
   - Ilja Kuzborskij, Francesco Orabona --arXiv 2014
 
+Algorithmic Stability and Meta-Learning  [[paper](http://www.jmlr.org/papers/volume6/maurer05a/maurer05a.pdf)]
+  - Andreas Maurer  --JMLR 2005
+
 ### Online convex optimization
 Adaptive Gradient-Based Meta-Learning Methods[[paper](https://arxiv.org/pdf/1906.02717.pdf)]
   - Mikhail Khodak, Maria-Florina Balcan, Ameet Talwalkar --arXiv 2019
