@@ -10,6 +10,9 @@ Meta-learners’ learning dynamics are unlike learners’  [[paper](https://arxi
 
 ## Few-shot learning
 
+Few-Shot Learning with Global Class Representations [[paper](https://arxiv.org/pdf/1908.05257.pdf)]
+  - Tiange Luo, Aoxue Li, Tao Xiang, Weiran Huang, Liwei Wang  --ICCV 2019
+
 TapNet: Neural Network Augmented with Task-Adaptive Projection for Few-Shot Learning [[paper](https://arxiv.org/pdf/1905.06549.pdf)]
   - Sung Whan Yoon, Jun Seo, Jaekyun Moon --ICML 2019
 
@@ -89,6 +92,11 @@ Image Deformation Meta-Networks for One-Shot Learning [[paper](https://arxiv.org
 ### Imbalance class
 Learning to Model the Tail [[paper](https://papers.nips.cc/paper/7278-learning-to-model-the-tail.pdf)]
   - Yu-Xiong Wang, Deva Ramanan, Martial Hebert --NeurIPS 2017
+
+### NLP
+Few-Shot Representation Learning for Out-Of-Vocabulary Words [[paper](https://arxiv.org/abs/1907.00505)]
+  - Ziniu Hu, Ting Chen, Kai-Wei Chang, Yizhou Sun --ACL 2019
+
 
 ## Architecture search
 Graph HyperNetworks for Neural Architecture Search [[paper](https://arxiv.org/abs/1810.05749)]
@@ -194,6 +202,9 @@ Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace [[paper]
 LCC: Learning to Customize and Combine Neural Networks for Few-Shot Learning [[paper](https://arxiv.org/pdf/1904.08479.pdf)]
   - Yaoyao Liu, Qianru Sun, An-An Liu, Yuting Su, Bernt Schiele, Tat-Seng Chua --CVPR 2019
 
+Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](https://arxiv.org/pdf/1502.03492.pdf)]
+  - Dougal Maclaurin, David Duvenaud, Ryan P. Adams --ICML 2016
+
 ## Model compression
 N2N Learning: Network to Network Compression via Policy Gradient Reinforcement Learning
   - Anubhav Ashok, Nicholas Rhinehart, Fares Beainy, Kris M. Kitani --ICLR 2018
@@ -204,6 +215,16 @@ Deep Mean Functions for Meta-Learning in Gaussian Processes [[paper](https://arx
 
 Kernel Learning and Meta Kernels for Transfer Learning  [[paper](http://www1.icsi.berkeley.edu/~rueckert/papers/rueckert09kernel)]
   - Ulrich Ruckert
+
+## Optimization
+Learning to Generalize to Unseen Tasks with Bilevel Optimization [[paper](https://arxiv.org/pdf/1908.01457.pdf)]
+  - Hayeon Lee, Donghyun Na, Hae Beom Lee, Sung Ju Hwang --arXiv 2019
+
+Learning to Optimize [[paper](https://arxiv.org/abs/1606.01885)]
+  - Ke Li Jitendra Malik --ICLR 2017
+
+Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](https://arxiv.org/pdf/1502.03492.pdf)]
+  - Dougal Maclaurin, David Duvenaud, Ryan P. Adams --ICML 2016
 
 ## Theory
 Meta-learners' learning dynamics are unlike learners' [[paper](https://arxiv.org/abs/1905.01320)]
