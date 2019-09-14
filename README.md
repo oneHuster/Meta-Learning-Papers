@@ -235,6 +235,9 @@ Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](
   - Dougal Maclaurin, David Duvenaud, Ryan P. Adams --ICML 2016
 
 ## Theory
+On the Convergence Theory of Gradient-Based Model-Agnostic Meta-Learning Algorithms[[paper](https://arxiv.org/pdf/1908.10400.pdf)]
+  - Alireza Fallah, Aryan Mokhtari, Asuman Ozdaglar --arXiv 2019
+
 Meta-learners' learning dynamics are unlike learners' [[paper](https://arxiv.org/abs/1905.01320)]
   - Neil C. Rabinowitz --arXiv 2019
 
