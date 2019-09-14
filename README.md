@@ -111,6 +111,9 @@ Bayesian Meta-network Architecture Learning
   - Albert Shaw, Bo Dai, Weiyang Liu, Le Song --arXiv 2018
   
 ## Task-dependent
+Meta-Learning with Warped Gradient Descent [[paper](https://arxiv.org/pdf/1909.00025.pdf)]
+  -Sebastian Flennerhag, Andrei A. Rusu, Razvan Pascanu, Hujun Yin, Raia Hadsell --arXiv 2019
+
 TAFE-Net: Task-Aware Feature Embeddings for Low Shot Learning [[paper](https://arxiv.org/abs/1904.05967)]
   - Xin Wang, Fisher Yu, Ruth Wang, Trevor Darrell, Joseph E. Gonzalez --CVPR 2019
 
@@ -219,6 +222,9 @@ Kernel Learning and Meta Kernels for Transfer Learning  [[paper](http://www1.ics
   - Ulrich Ruckert
 
 ## Optimization
+Meta-Learning with Warped Gradient Descent [[paper](https://arxiv.org/pdf/1909.00025.pdf)]
+  -Sebastian Flennerhag, Andrei A. Rusu, Razvan Pascanu, Hujun Yin, Raia Hadsell --arXiv 2019
+  
 Learning to Generalize to Unseen Tasks with Bilevel Optimization [[paper](https://arxiv.org/pdf/1908.01457.pdf)]
   - Hayeon Lee, Donghyun Na, Hae Beom Lee, Sung Ju Hwang --arXiv 2019
 
@@ -252,10 +258,10 @@ Algorithmic Stability and Meta-Learning  [[paper](http://www.jmlr.org/papers/vol
 
 ### Online convex optimization
 Adaptive Gradient-Based Meta-Learning Methods[[paper](https://arxiv.org/pdf/1906.02717.pdf)]
-  - Mikhail Khodak, Maria-Florina Balcan, Ameet Talwalkar --arXiv 2019
+  - Mikhail Khodak, Maria-Florina Balcan, Ameet Talwalkar --NeurIPS 2019
 
 Learning-to-Learn Stochastic Gradient Descent with Biased Regularization [[paper](https://arxiv.org/abs/1903.10399)]
-  - Giulia Denevi, Carlo Ciliberto, Riccardo Grazzi, Massimiliano Pontil  --arXiv 2019
+  - Giulia Denevi, Carlo Ciliberto, Riccardo Grazzi, Massimiliano Pontil  --NeurIPS 2019
 
 Provable Guarantees for Gradient-Based Meta-Learning
   -  Mikhail Khodak Maria-Florina Balcan Ameet Talwalkar --arXiv 2019 
