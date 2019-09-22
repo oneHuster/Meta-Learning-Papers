@@ -2,6 +2,9 @@
 A summary of meta learning papers based on taxonomic category. Sorted by submitted date on arXiv.
 
 ## Survey
+Meta-Learning[[paper](https://www.ml4aad.org/wp-content/uploads/2018/09/chapter2-metalearning.pdf)]
+  - Joaquin Vanschoren
+
 Meta-Learning: A Survey [[paper](https://arxiv.org/pdf/1810.03548.pdf)]
   - Joaquin Vanschoren
 
