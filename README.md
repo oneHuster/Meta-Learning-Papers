@@ -26,10 +26,7 @@ Learning to Learn with Conditional Class Dependencies  [[paper](https://openrevi
  
 TAFE-Net: Task-Aware Feature Embeddings for Low Shot Learning [[paper](https://arxiv.org/abs/1904.05967)]
   - Xin Wang, Fisher Yu, Ruth Wang, Trevor Darrell, Joseph E. Gonzalez --CVPR 2019
-
-Variational Prototyping-Encoder: One-Shot Learning with Prototypical Images [[paper](https://arxiv.org/abs/1904.08482)]
-  - Junsik Kim, Tae-Hyun Oh, Seokju Lee, Fei Pan, In So Kweon --CVPR 2019
-
+  
 LCC: Learning to Customize and Combine Neural Networks for Few-Shot Learning [[paper](https://arxiv.org/pdf/1904.08479.pdf)]
   - Yaoyao Liu, Qianru Sun, An-An Liu, Yuting Su, Bernt Schiele, Tat-Seng Chua --CVPR 2019
 
@@ -89,6 +86,42 @@ Prototypical Networks for Few-shot Learning [[paper](https://arxiv.org/pdf/1703.
   
 Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[paper](https://arxiv.org/abs/1703.03400)]
   - Chelsea Finn, Pieter Abbeel, Sergey Levine -- ICML 2016
+  
+A Simple Neural Attentive Meta-Learner [[paper](https://arxiv.org/abs/1707.03141)]
+  - Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel --ICLR 2018
+  
+Learning to Compare: Relation Network for Few-Shot Learning [[paper](https://arxiv.org/abs/1711.06025)]
+  - Flood Sung, Yongxin Yang, Li Zhang, Tao Xiang, Philip H.S. Torr, Timothy M. Hospedales --CVPR 2018
+
+Low-Shot Visual Recognition by Shrinking and Hallucinating Features [[paper](https://arxiv.org/abs/1606.02819)]
+  - Bharath Hariharan, Ross Girshick -- ICCV 2017
+  
+Edge-labeling Graph Neural Network for Few-shot Learning [[paper](https://arxiv.org/abs/1905.01436)]
+  - Jongmin Kim, Taesup Kim, Sungwoong Kim, Chang D. Yoo -- CVPR 2019
+  
+Generating Classification Weights with GNN Denoising Autoencoders for Few-Shot Learning [[paper](https://arxiv.org/abs/1905.01102)]
+  - Spyros Gidaris, Nikos Komodakis -- CVPR 2019
+  
+Finding Task-Relevant Features for Few-Shot Learning by Category Traversal [[paper](https://arxiv.org/abs/1905.11116)]
+  -  Hongyang Li, David Eigen, Samuel Dodge, Matthew Zeiler, Xiaogang Wang -- CVPR 2019
+ 
+LaSO: Label-Set Operations networks for multi-label few-shot learning [[paper](https://arxiv.org/abs/1902.09811)]
+  - Amit Alfassy, Leonid Karlinsky, Amit Aides, Joseph Shtok, Sivan Harary, Rogerio Feris, Raja Giryes, Alex M. Bronstein -- arXiv 2019
+  
+Spot and Learn: A Maximum-Entropy Patch Sampler for Few-Shot Image Classification [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chu_Spot_and_Learn_A_Maximum-Entropy_Patch_Sampler_for_Few-Shot_Image_CVPR_2019_paper.pdf)]
+  - Wen-Hsuan Chu, Yu-Jhe Li, Jing-Cheng Chang, Yu-Chiang Frank Wang -- 2019
+
+Baby steps towards few-shot learning with multiple semantics [[paper](https://arxiv.org/abs/1906.01905)]
+  - Eli Schwartz, Leonid Karlinsky, Rogerio Feris, Raja Giryes, Alex M. Bronstein -- CVPR 2019
+  
+Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders [[paper](https://arxiv.org/abs/1812.01784)]
+  - Edgar Schönfeld, Sayna Ebrahimi, Samarth Sinha, Trevor Darrell, Zeynep Akata -- CVPR 2019
+  
+Large-Scale Few-Shot Learning: Knowledge Transfer With Class Hierarchy [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Large-Scale_Few-Shot_Learning_Knowledge_Transfer_With_Class_Hierarchy_CVPR_2019_paper.pdf)]
+  - Aoxue Li, Tiange Luo, Zhiwu Lu, Tao Xiang, Liwei Wang -- CVPR 2019
+### One-shot 
+One-shot Learning with Memory-Augmented Neural Networks [[paper](https://arxiv.org/abs/1605.06065)]
+  - Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, Timothy Lillicrap -- arXiv 2016
 
 ### Large scale dataset
 Image Deformation Meta-Networks for One-Shot Learning [[paper](https://arxiv.org/pdf/1905.11641.pdf)]
@@ -102,6 +135,28 @@ Learning to Model the Tail [[paper](https://papers.nips.cc/paper/7278-learning-t
 Few-Shot Representation Learning for Out-Of-Vocabulary Words [[paper](https://arxiv.org/abs/1907.00505)]
   - Ziniu Hu, Ting Chen, Kai-Wei Chang, Yizhou Sun --ACL 2019
 
+### CV
+Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning [[paper](https://arxiv.org/abs/1903.12290)]
+  - Wenbin Li, Lei Wang, Jinglin Xu, Jing Huo, Yang Gao, Jiebo Luo -- CVPR 2019
+
+Few-Shot Learning with Localization in Realistic Settings [[paper](https://arxiv.org/abs/1904.08502)]
+  - Davis Wertheimer, Bharath Hariharan -- CVPR 2019
+
+Dense Classification and Implanting for Few-Shot Learning [[paper](https://arxiv.org/abs/1903.05050)]
+  - Yann Lifchitz, Yannis Avrithis, Sylvaine Picard, Andrei Bursuc -- CVPR 2019
+  
+Variational Prototyping-Encoder: One-Shot Learning with Prototypical Images [[paper](https://arxiv.org/abs/1904.08482)]
+  - Junsik Kim, Tae-Hyun Oh, Seokju Lee, Fei Pan, In So Kweon --CVPR 2019
+
+RepMet: Representative-based metric learning for classification and one-shot object detection [[paper](https://arxiv.org/abs/1806.04728)]
+  - Leonid Karlinsky, Joseph Shtok, Sivan Harary, Eli Schwartz, Amit Aides, Rogerio Feris, Raja Giryes, Alex M. Bronstein -- CVPR 2019
+  
+CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning[[paper](https://arxiv.org/abs/1903.02351)]
+  - Chi Zhang, Guosheng Lin, Fayao Liu, Rui Yao, Chunhua Shen -- CVPR 2019
+
+### Action recognition
+A Generative Approach to Zero-Shot and Few-Shot Action Recognition [[paper](https://arxiv.org/abs/1801.09086)]
+  -  Ashish Mishra, Vinay Kumar Verma, M Shiva Krishna Reddy, Arulkumar S, Piyush Rai, Anurag Mittal -- WACV 2018
 
 ## Architecture search
 Graph HyperNetworks for Neural Architecture Search [[paper](https://arxiv.org/abs/1810.05749)]
@@ -162,6 +217,10 @@ Incremental Learning-to-Learn with Statistical Guarantees [[paper](http://auai.o
 Learning to Generalize: Meta-Learning for Domain Generalization
   - Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M. Hospedales -- arXiv 2018
 
+## Domain adaptation
+Few-Shot Adversarial Domain Adaptation [[paper](https://arxiv.org/abs/1711.02536)]
+  - Saeid Motiian, Quinn Jones, Seyed Mehdi Iranmanesh, Gianfranco Doretto -- NIPS 2017
+  
 ## Bayesian inference
 Amortized Bayesian Meta-Learning [[paper](https://openreview.net/pdf?id=rkgpy3C5tX)]
   - Sachin Ravi, Alex Beatson --ICLR 2019
@@ -195,6 +254,9 @@ Zero-Shot Knowledge Distillation in Deep Networks [[paper](https://arxiv.org/pdf
 
 Toward Multimodal Model-Agnostic Meta-Learning [[paper](https://arxiv.org/pdf/1812.07172.pdf)]
   - Risto Vuorio, Shao-Hua Sun, Hexiang Hu, Joseph J. Lim  --arXiv 2019
+  
+Zero-Shot Learning Through Cross-Modal Transfer [[paper](http://papers.nips.cc/paper/5027-zero-shot-learning-through-cross-modal-transfer)]
+  - Richard Socher, Milind Ganjoo, Christopher D. Manning, Andrew Ng -- NIPS 2013
 
 ### Unsupervised learning
 Unsupervised Learning via Meta-Learning [[paper](https://arxiv.org/abs/1810.02334)]
@@ -236,7 +298,9 @@ Learning to Optimize [[paper](https://arxiv.org/abs/1606.01885)]
 
 Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](https://arxiv.org/pdf/1502.03492.pdf)]
   - Dougal Maclaurin, David Duvenaud, Ryan P. Adams --ICML 2016
-
+  
+Optimization as a Model for Few-Shot Learning [[paper](https://openreview.net/pdf?id=rJY0-Kcll&source=post_page---------------------------)]
+    - Sachin Ravi and Hugo Larochelle  -- 2016
 ## Theory
 On the Convergence Theory of Gradient-Based Model-Agnostic Meta-Learning Algorithms[[paper](https://arxiv.org/pdf/1908.10400.pdf)]
   - Alireza Fallah, Aryan Mokhtari, Asuman Ozdaglar --arXiv 2019
