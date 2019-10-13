@@ -65,38 +65,7 @@ How To Train Your MAML [[paper](https://arxiv.org/pdf/1810.09502v1.pdf)]
 
 TADAM: Task dependent adaptive metric for improved few-shot learning [[paper](https://arxiv.org/abs/1805.10123)]
   - Boris N. Oreshkin, Pau Rodriguez, Alexandre Lacoste --arXiv 2019
-
-Few-shot Learning with Meta Metric Learners
-  - Yu Cheng, Mo Yu, Xiaoxiao Guo, Bowen Zhou --NIPS 2017 workshop on Meta-Learning
-
-Learning Embedding Adaptation for Few-Shot Learning [[paper](https://arxiv.org/pdf/1812.03664.pdf)]
-  - Han-Jia Ye, Hexiang Hu, De-Chuan Zhan, Fei Sha --arXiv 2018
-
-Meta-Transfer Learning for Few-Shot Learning [[paper](https://arxiv.org/pdf/1812.02391.pdf)]
-  - Qianru Sun, Yaoyao Liu, Tat-Seng Chu, Bernt Schiele -- arXiv 2018
-
-Task-Agnostic Meta-Learning for Few-shot Learning
-  - Muhammad Abdullah Jamal, Guo-Jun Qi, and Mubarak Shah  --arXiv 2018
-
-Few-Shot Learning with Graph Neural Networks [[paper](https://arxiv.org/abs/1711.04043)]
-  - Victor Garcia, Joan Bruna -- ICLR 2018
-
-Prototypical Networks for Few-shot Learning [[paper](https://arxiv.org/pdf/1703.05175.pdf)]
-  - Jake Snell, Kevin Swersky, Richard S. Zemel -- NIPS 2017
-  
-Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[paper](https://arxiv.org/abs/1703.03400)]
-  - Chelsea Finn, Pieter Abbeel, Sergey Levine -- ICML 2016
-  
-A Simple Neural Attentive Meta-Learner [[paper](https://arxiv.org/abs/1707.03141)]
-  - Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel --ICLR 2018
-  
-Learning to Compare: Relation Network for Few-Shot Learning [[paper](https://arxiv.org/abs/1711.06025)]
-  - Flood Sung, Yongxin Yang, Li Zhang, Tao Xiang, Philip H.S. Torr, Timothy M. Hospedales --CVPR 2018
-
-Low-Shot Visual Recognition by Shrinking and Hallucinating Features [[paper](https://arxiv.org/abs/1606.02819)]
-  - Bharath Hariharan, Ross Girshick -- ICCV 2017
-  
-Edge-labeling Graph Neural Network for Few-shot Learning [[paper](https://arxiv.org/abs/1905.01436)]
+  Edge-labeling Graph Neural Network for Few-shot Learning [[paper](https://arxiv.org/abs/1905.01436)]
   - Jongmin Kim, Taesup Kim, Sungwoong Kim, Chang D. Yoo -- CVPR 2019
   
 Generating Classification Weights with GNN Denoising Autoencoders for Few-Shot Learning [[paper](https://arxiv.org/abs/1905.01102)]
@@ -119,6 +88,38 @@ Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders [[p
   
 Large-Scale Few-Shot Learning: Knowledge Transfer With Class Hierarchy [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Large-Scale_Few-Shot_Learning_Knowledge_Transfer_With_Class_Hierarchy_CVPR_2019_paper.pdf)]
   - Aoxue Li, Tiange Luo, Zhiwu Lu, Tao Xiang, Liwei Wang -- CVPR 2019
+  
+Few-shot Learning with Meta Metric Learners
+  - Yu Cheng, Mo Yu, Xiaoxiao Guo, Bowen Zhou --NIPS 2017 workshop on Meta-Learning
+
+Learning Embedding Adaptation for Few-Shot Learning [[paper](https://arxiv.org/pdf/1812.03664.pdf)]
+  - Han-Jia Ye, Hexiang Hu, De-Chuan Zhan, Fei Sha --arXiv 2018
+
+Meta-Transfer Learning for Few-Shot Learning [[paper](https://arxiv.org/pdf/1812.02391.pdf)]
+  - Qianru Sun, Yaoyao Liu, Tat-Seng Chu, Bernt Schiele -- arXiv 2018
+
+Task-Agnostic Meta-Learning for Few-shot Learning
+  - Muhammad Abdullah Jamal, Guo-Jun Qi, and Mubarak Shah  --arXiv 2018
+  
+A Simple Neural Attentive Meta-Learner [[paper](https://arxiv.org/abs/1707.03141)]
+  - Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel --ICLR 2018
+  
+Learning to Compare: Relation Network for Few-Shot Learning [[paper](https://arxiv.org/abs/1711.06025)]
+  - Flood Sung, Yongxin Yang, Li Zhang, Tao Xiang, Philip H.S. Torr, Timothy M. Hospedales --CVPR 2018
+  
+Few-Shot Learning with Graph Neural Networks [[paper](https://arxiv.org/abs/1711.04043)]
+  - Victor Garcia, Joan Bruna -- ICLR 2018
+
+Prototypical Networks for Few-shot Learning [[paper](https://arxiv.org/pdf/1703.05175.pdf)]
+  - Jake Snell, Kevin Swersky, Richard S. Zemel -- NIPS 2017
+  
+Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[paper](https://arxiv.org/abs/1703.03400)]
+  - Chelsea Finn, Pieter Abbeel, Sergey Levine -- ICML 2016
+ 
+Low-Shot Visual Recognition by Shrinking and Hallucinating Features [[paper](https://arxiv.org/abs/1606.02819)]
+  - Bharath Hariharan, Ross Girshick -- ICCV 2017
+  
+
 ### One-shot 
 One-shot Learning with Memory-Augmented Neural Networks [[paper](https://arxiv.org/abs/1605.06065)]
   - Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, Timothy Lillicrap -- arXiv 2016
