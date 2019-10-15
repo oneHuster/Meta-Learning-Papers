@@ -163,6 +163,9 @@ Learning to Generalize: Meta-Learning for Domain Generalization
   - Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M. Hospedales -- arXiv 2018
 
 ## Bayesian inference
+Meta-Amortized Variational Inference and Learning [[paper](https://arxiv.org/pdf/1902.01950.pdf)]
+  - Mike Wu, Kristy Choi, Noah Goodman, Stefano Ermon  --arXiv 2019
+
 Amortized Bayesian Meta-Learning [[paper](https://openreview.net/pdf?id=rkgpy3C5tX)]
   - Sachin Ravi, Alex Beatson --ICLR 2019
 
