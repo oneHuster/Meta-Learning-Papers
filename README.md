@@ -12,6 +12,9 @@ Meta-learners’ learning dynamics are unlike learners’  [[paper](https://arxi
   - Neil C. Rabinowitz
 
 ## Few-shot learning
+Learning from the Past: Continual Meta-Learning with Bayesian Graph Neural Networks [[paper](https://arxiv.org/abs/1911.04695)]
+  - Yadan Luo, Zi Huang, Zheng Zhang, Ziwei Wang, Mahsa Baktashmotlagh, Yang Yang --arXiv 2019
+
 PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment [[paper](https://arxiv.org/abs/1908.06391)]
   - Kaixin Wang, Jun Hao Liew, Yingtian Zou, Daquan Zhou, Jiashi Feng --ICCV 2019
 
@@ -99,6 +102,9 @@ Learning to Model the Tail [[paper](https://papers.nips.cc/paper/7278-learning-t
   - Yu-Xiong Wang, Deva Ramanan, Martial Hebert --NeurIPS 2017
 
 ### NLP
+Learning to Few-Shot Learn Across Diverse Natural Language Classification Tasks [[paper](https://arxiv.org/pdf/1911.03863.pdf)]
+  - Trapit Bansal, Rishikesh Jha, Andrew McCallum  --arXiv 
+
 Few-Shot Representation Learning for Out-Of-Vocabulary Words [[paper](https://arxiv.org/abs/1907.00505)]
   - Ziniu Hu, Ting Chen, Kai-Wei Chang, Yizhou Sun --ACL 2019
 
@@ -114,6 +120,10 @@ Bayesian Meta-network Architecture Learning
   - Albert Shaw, Bo Dai, Weiyang Liu, Le Song --arXiv 2018
   
 ## Task-dependent
+
+Multimodal Model-Agnostic Meta-Learning via Task-Aware Modulation [[paper](https://arxiv.org/abs/1910.13616)]
+  -Risto Vuorio, Shao-Hua Sun, Hexiang Hu, Joseph J. Lim --NeurIPS 2019
+
 Meta-Learning with Warped Gradient Descent [[paper](https://arxiv.org/pdf/1909.00025.pdf)]
   -Sebastian Flennerhag, Andrei A. Rusu, Razvan Pascanu, Hujun Yin, Raia Hadsell --arXiv 2019
 
@@ -137,7 +147,11 @@ TADAM: Task dependent adaptive metric for improved few-shot learning
   
 MetaReg: Towards Domain Generalization using Meta-Regularization [[paper](https://papers.nips.cc/paper/7378-metareg-towards-domain-generalization-using-meta-regularization.pdf)]
   - Yogesh Balaji, Swami Sankaranarayanan -- NIPS 2018
+
 ### Heterogeneous task
+Statistical Model Aggregation via Parameter Matching [[paper]](https://arxiv.org/pdf/1911.00218.pdf)
+  - Mikhail Yurochkin, Mayank Agarwal, Soumya Ghosh, Kristjan Greenewald, Trong Nghia Hoang --NeurIPS 2019
+
 Hierarchically Structured Meta-learning [[paper](https://arxiv.org/pdf/1905.05301.pdf)]
   - Huaxiu Yao, Ying Wei, Junzhou Huang, Zhenhui Li --ICML 2019
 
@@ -228,6 +242,12 @@ Kernel Learning and Meta Kernels for Transfer Learning  [[paper](http://www1.ics
   - Ulrich Ruckert
 
 ## Optimization
+Model-Agnostic Meta-Learning using Runge-Kutta Methods [[paper](https://arxiv.org/abs/1910.07368)]
+  - Daniel Jiwoong Im, Yibo Jiang, Nakul Verma --arXiv
+
+Learning to Optimize in Swarms [[paper](https://arxiv.org/pdf/1911.03787.pdf)]
+  - Yue Cao, Tianlong Chen, Zhangyang Wang, Yang Shen --arXiv 2019
+
 Meta-Learning with Warped Gradient Descent [[paper](https://arxiv.org/pdf/1909.00025.pdf)]
   -Sebastian Flennerhag, Andrei A. Rusu, Razvan Pascanu, Hujun Yin, Raia Hadsell --arXiv 2019
   
@@ -241,11 +261,15 @@ Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](
   - Dougal Maclaurin, David Duvenaud, Ryan P. Adams --ICML 2016
 
 ## Theory
+
 On the Convergence Theory of Gradient-Based Model-Agnostic Meta-Learning Algorithms[[paper](https://arxiv.org/pdf/1908.10400.pdf)]
   - Alireza Fallah, Aryan Mokhtari, Asuman Ozdaglar --arXiv 2019
 
 Meta-learners' learning dynamics are unlike learners' [[paper](https://arxiv.org/abs/1905.01320)]
   - Neil C. Rabinowitz --arXiv 2019
+
+Regret bounds for meta Bayesian optimization with an unknown Gaussian process prior [[paper](https://arxiv.org/pdf/1811.09558.pdf)]
+  - Zi Wang, Beomjoon Kim, Leslie Pack Kaelbling --NeurIPS 2018
 
 Incremental Learning-to-Learn with Statistical Guarantees [[paper](https://arxiv.org/abs/1803.08089)]
   - Giulia Denevi, Carlo Ciliberto, Dimitris Stamos, Massimiliano Pontil  --UAI 2018
@@ -266,7 +290,10 @@ Algorithmic Stability and Meta-Learning  [[paper](http://www.jmlr.org/papers/vol
   - Andreas Maurer  --JMLR 2005
 
 ### Online convex optimization
-Adaptive Gradient-Based Meta-Learning Methods[[paper](https://arxiv.org/pdf/1906.02717.pdf)]
+Online Meta-Learning on Non-convex Setting [[paper](https://arxiv.org/abs/1910.10196)]
+  - Zhenxun Zhuang, Yunlong Wang, Kezi Yu, Songtao Lu --arXiv 2019
+
+Adaptive Gradient-Based Meta-Learning Methods [[paper](https://arxiv.org/pdf/1906.02717.pdf)]
   - Mikhail Khodak, Maria-Florina Balcan, Ameet Talwalkar --NeurIPS 2019
 
 Learning-to-Learn Stochastic Gradient Descent with Biased Regularization [[paper](https://arxiv.org/abs/1903.10399)]
