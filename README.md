@@ -64,7 +64,7 @@ Dynamic Few-Shot Visual Learning without Forgetting [[paper](https://arxiv.org/p
   - Spyros Gidaris, Nikos Komodakis --arXiv 2019
 
 Meta Learning with Lantent Embedding Optimization [[paper](https://openreview.net/pdf?id=BJgklhAcK7)]
-  -Andrei A. Rusu, Dushyant Rao, Jakub Sygnowski, Oriol Vinyals, Razvan Pascanu, Simon Osindero & Raia Hadsell --ICLR 2019
+  - Andrei A. Rusu, Dushyant Rao, Jakub Sygnowski, Oriol Vinyals, Razvan Pascanu, Simon Osindero & Raia Hadsell --ICLR 2019
 
 Adaptive Posterior Learning: few-shot learning with a surprise-based memory module
   - Tiago Ramalho, Marta Garnelo --ICLR 2019
@@ -128,10 +128,10 @@ Bayesian Meta-network Architecture Learning
 ## Task-dependent
 
 Multimodal Model-Agnostic Meta-Learning via Task-Aware Modulation [[paper](https://arxiv.org/abs/1910.13616)]
-  -Risto Vuorio, Shao-Hua Sun, Hexiang Hu, Joseph J. Lim --NeurIPS 2019
+  - Risto Vuorio, Shao-Hua Sun, Hexiang Hu, Joseph J. Lim --NeurIPS 2019
 
 Meta-Learning with Warped Gradient Descent [[paper](https://arxiv.org/pdf/1909.00025.pdf)]
-  -Sebastian Flennerhag, Andrei A. Rusu, Razvan Pascanu, Hujun Yin, Raia Hadsell --arXiv 2019
+  - Sebastian Flennerhag, Andrei A. Rusu, Razvan Pascanu, Hujun Yin, Raia Hadsell --arXiv 2019
 
 TAFE-Net: Task-Aware Feature Embeddings for Low Shot Learning [[paper](https://arxiv.org/abs/1904.05967)]
   - Xin Wang, Fisher Yu, Ruth Wang, Trevor Darrell, Joseph E. Gonzalez --CVPR 2019
@@ -238,7 +238,7 @@ Meta-Learning Update Rules for Unsupervised Representation Learning [[paper](htt
   - Luke Metz, Niru Maheswaranathan, Brian Cheung, Jascha Sohl-Dickstein --ICLR 2019
 
 Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace [[paper](https://arxiv.org/abs/1903.08254)]
-  -Kate Rakelly, Aurick Zhou, Deirdre Quillen, Chelsea Finn, Sergey Levine  --ICML 2018
+  - Kate Rakelly, Aurick Zhou, Deirdre Quillen, Chelsea Finn, Sergey Levine  --ICML 2018
 
 ## Hyperparameter
 LCC: Learning to Customize and Combine Neural Networks for Few-Shot Learning [[paper](https://arxiv.org/pdf/1904.08479.pdf)]
@@ -272,7 +272,7 @@ Learning to Optimize in Swarms [[paper](https://arxiv.org/pdf/1911.03787.pdf)]
   - Yue Cao, Tianlong Chen, Zhangyang Wang, Yang Shen --arXiv 2019
 
 Meta-Learning with Warped Gradient Descent [[paper](https://arxiv.org/pdf/1909.00025.pdf)]
-  -Sebastian Flennerhag, Andrei A. Rusu, Razvan Pascanu, Hujun Yin, Raia Hadsell --arXiv 2019
+  - Sebastian Flennerhag, Andrei A. Rusu, Razvan Pascanu, Hujun Yin, Raia Hadsell --arXiv 2019
   
 Learning to Generalize to Unseen Tasks with Bilevel Optimization [[paper](https://arxiv.org/pdf/1908.01457.pdf)]
   - Hayeon Lee, Donghyun Na, Hae Beom Lee, Sung Ju Hwang --arXiv 2019
