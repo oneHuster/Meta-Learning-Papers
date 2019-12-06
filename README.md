@@ -12,6 +12,9 @@ Meta-learners’ learning dynamics are unlike learners’  [[paper](https://arxi
   - Neil C. Rabinowitz
 
 ## Few-shot learning
+Learning to Learn via Self-Critique [[paper](https://arxiv.org/abs/1905.10295)]
+  - Antreas Antoniou, Amos Storkey  --NeurIPS 2019
+  
 Learning from the Past: Continual Meta-Learning with Bayesian Graph Neural Networks [[paper](https://arxiv.org/abs/1911.04695)]
   - Yadan Luo, Zi Huang, Zheng Zhang, Ziwei Wang, Mahsa Baktashmotlagh, Yang Yang --arXiv 2019
 
@@ -108,6 +111,9 @@ Learning to Few-Shot Learn Across Diverse Natural Language Classification Tasks 
 Few-Shot Representation Learning for Out-Of-Vocabulary Words [[paper](https://arxiv.org/abs/1907.00505)]
   - Ziniu Hu, Ting Chen, Kai-Wei Chang, Yizhou Sun --ACL 2019
 
+## Reinforcement learning
+Guided Meta-Policy Search [[paper](https://arxiv.org/abs/1904.00956)]
+  - Russell Mendonca, Abhishek Gupta, Rosen Kralev, Pieter Abbeel, Sergey Levine, Chelsea Finn
 
 ## Architecture search
 Graph HyperNetworks for Neural Architecture Search [[paper](https://arxiv.org/abs/1810.05749)]
@@ -159,6 +165,14 @@ Hierarchical Meta Learning [[paper](https://arxiv.org/abs/1904.09081)]
   - Yingtian Zou, Jiashi Feng  --arXiv 2019
 
 ## Lifelong learning
+Online-Within-Online Meta-Learning [[paper](https://papers.nips.cc/paper/9468-online-within-online-meta-learning)]
+  - Giulia Denevi, Dimitris Stamos, Carlo Ciliberto, Massimiliano Pontil
+  
+Reconciling meta-learning and continual learning with online mixtures of tasks [[paper](https://arxiv.org/abs/1812.06080)]
+  - Ghassen Jerfel, Erin Grant, Thomas L. Griffiths, Katherine Heller  --NeurIPS 2019
+
+Meta-Learning Representations for Continual Learning [[paper](https://arxiv.org/abs/1905.12588)]
+  - Khurram Javed, Martha White  --NeurIPS 2019
 
 Online Meta-Learning [[paper](https://arxiv.org/abs/1902.08438)]
   - Chelsea Finn, Aravind Rajeswaran, Sham Kakade, Sergey Levine  --ICML 2019
@@ -173,6 +187,9 @@ Incremental Learning-to-Learn with Statistical Guarantees [[paper](http://auai.o
   - Giulia Denevi, Carlo Ciliberto, Dimitris Stamos, Massimiliano Pontil --arXiv 2018
   
 ## Domain generation
+Domain Generalization via Model-Agnostic Learning of Semantic Features [[paper](https://arxiv.org/abs/1910.13580)]
+  - Qi Dou, Daniel C. Castro, Konstantinos Kamnitsas, Ben Glocker
+  
 Learning to Generalize: Meta-Learning for Domain Generalization
   - Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M. Hospedales -- arXiv 2018
 
@@ -200,7 +217,7 @@ Meta-learning by adjusting priors based on extended PAC-Bayes theory [[paper](ht
 
 ## Learning curves
 Meta-Curvature [[paper](https://arxiv.org/abs/1902.03356)]
-  - Eunbyung Park, Junier B. Oliva --arXiv 2019
+  - Eunbyung Park, Junier B. Oliva --NeurIPS 2019
   
 ## Configuration transfer
 
@@ -242,6 +259,12 @@ Kernel Learning and Meta Kernels for Transfer Learning  [[paper](http://www1.ics
   - Ulrich Ruckert
 
 ## Optimization
+MetaInit: Initializing learning by learning to initialize [[paper](https://papers.nips.cc/paper/9427-metainit-initializing-learning-by-learning-to-initialize)]
+  - Yann N. Dauphin, Samuel Schoenholz  --NeurIPS 2019
+  
+Meta-Learning with Implicit Gradients [[paper](https://arxiv.org/abs/1909.04630)]
+  - Aravind Rajeswaran*, Chelsea Finn*, Sham Kakade, Sergey Levine  --NeurIPS 2019
+
 Model-Agnostic Meta-Learning using Runge-Kutta Methods [[paper](https://arxiv.org/abs/1910.07368)]
   - Daniel Jiwoong Im, Yibo Jiang, Nakul Verma --arXiv
 
@@ -261,8 +284,10 @@ Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](
   - Dougal Maclaurin, David Duvenaud, Ryan P. Adams --ICML 2016
 
 ## Theory
+Efficient Meta Learning via Minibatch Proximal Update [[paper](https://papers.nips.cc/paper/8432-efficient-meta-learning-via-minibatch-proximal-update)]
+  - Pan Zhou, Xiaotong Yuan, Huan Xu, Shuicheng Yan, Jiashi Feng --NeurIPS 2019
 
-On the Convergence Theory of Gradient-Based Model-Agnostic Meta-Learning Algorithms[[paper](https://arxiv.org/pdf/1908.10400.pdf)]
+On the Convergence Theory of Gradient-Based Model-Agnostic Meta-Learning Algorithms [[paper](https://arxiv.org/pdf/1908.10400.pdf)]
   - Alireza Fallah, Aryan Mokhtari, Asuman Ozdaglar --arXiv 2019
 
 Meta-learners' learning dynamics are unlike learners' [[paper](https://arxiv.org/abs/1905.01320)]
@@ -277,7 +302,7 @@ Incremental Learning-to-Learn with Statistical Guarantees [[paper](https://arxiv
 Meta-learning by adjusting priors based on extended PAC-Bayes theory [[paper](https://arxiv.org/pdf/1711.01244.pdf)]
   - Ron Amit , Ron Meir --ICML 2018
 
-Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm[[paper](https://arxiv.org/pdf/1710.11622.pdf)]
+Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm [[paper](https://arxiv.org/pdf/1710.11622.pdf)]
   - Chelsea Finn, Sergey Levine --ICLR 2018
 
 On the Convergence of Model-Agnostic Meta-Learning [[paper](http://noahgolmant.com/writings/maml.pdf)]
