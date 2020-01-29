@@ -104,6 +104,14 @@ Image Deformation Meta-Networks for One-Shot Learning [[paper](https://arxiv.org
 Learning to Model the Tail [[paper](https://papers.nips.cc/paper/7278-learning-to-model-the-tail.pdf)]
   - Yu-Xiong Wang, Deva Ramanan, Martial Hebert --NeurIPS 2017
 
+### Video retargeting
+MetaPix: Few-Shot Video Retargeting [[paper](https://openreview.net/forum?id=SJx1URNKwH)]
+  - Jessica Lee, Deva Ramanan, Rohit Girdhar --ICLR 2020
+
+### Object detection
+Few-shot Object Detection via Feature Reweighting [[paper](https://arxiv.org/abs/1812.01866)]
+  - Bingyi Kang, Zhuang Liu, Xin Wang, Fisher Yu, Jiashi Feng, Trevor Darrell --ICCV 2019
+
 ### NLP
 Learning to Few-Shot Learn Across Diverse Natural Language Classification Tasks [[paper](https://arxiv.org/pdf/1911.03863.pdf)]
   - Trapit Bansal, Rishikesh Jha, Andrew McCallum  --arXiv 
@@ -112,10 +120,25 @@ Few-Shot Representation Learning for Out-Of-Vocabulary Words [[paper](https://ar
   - Ziniu Hu, Ting Chen, Kai-Wei Chang, Yizhou Sun --ACL 2019
 
 ## Reinforcement learning
+VariBAD: A Very Good Method for Bayes-Adaptive Deep RL via Meta-Learning [[paper](https://openreview.net/forum?id=Hkl9JlBYvr)]
+  - Luisa Zintgraf, Kyriacos Shiarlis, Maximilian Igl, Sebastian Schulze, Yarin Gal, Katja Hofmann, Shimon Whiteson --ICLR 2020
+
+Reinforcement Learning with Competitive Ensembles of Information-Constrained Primitives [[paper](https://openreview.net/forum?id=ryxgJTEYDr)]
+  - Anirudh Goyal, Shagun Sodhani, Jonathan Binas, Xue Bin Peng, Sergey Levine, Yoshua Bengio --ICLR 2020
+
+Meta-learning curiosity algorithms [[paper](https://openreview.net/pdf?id=BygdyxHFDS)]
+  - Ferran Alet*, Martin F. Schneider*, Tomas Lozano-Perez, Leslie Pack Kaelbling --ICLR 2020
+
+Meta-Q-Learning [[paper](https://openreview.net/forum?id=SJeD3CEFPH)]
+  - Rasool Fakoor, Pratik Chaudhari, Stefano Soatto, Alexander J. Smola --ICLR 2020
+  
 Guided Meta-Policy Search [[paper](https://arxiv.org/abs/1904.00956)]
   - Russell Mendonca, Abhishek Gupta, Rosen Kralev, Pieter Abbeel, Sergey Levine, Chelsea Finn
 
 ## Architecture search
+Towards Fast Adaptation of Neural Architectures with Meta Learning [[paper](https://openreview.net/forum?id=r1eowANFvr)]
+  - Dongze Lian, Yin Zheng, Yintao Xu, Yanxiong Lu, Leyu Lin, Peilin Zhao, Junzhou Huang, Shenghua Gao --ICLR 2020
+
 Graph HyperNetworks for Neural Architecture Search [[paper](https://arxiv.org/abs/1810.05749)]
   - Chris Zhang, Mengye Ren, Raquel Urtasun --ICLR 2019
 
@@ -164,6 +187,11 @@ Hierarchically Structured Meta-learning [[paper](https://arxiv.org/pdf/1905.0530
 Hierarchical Meta Learning [[paper](https://arxiv.org/abs/1904.09081)]
   - Yingtian Zou, Jiashi Feng  --arXiv 2019
 
+
+## Data Aug & Reg
+Meta Dropout: Learning to Perturb Latent Features for Generalization [[paper](https://openreview.net/forum?id=BJgd81SYwr)]
+  - Hae Beom Lee, Taewook Nam, Eunho Yang, Sung Ju Hwang --ICLR 2020
+
 ## Lifelong learning
 Online-Within-Online Meta-Learning [[paper](https://papers.nips.cc/paper/9468-online-within-online-meta-learning)]
   - Giulia Denevi, Dimitris Stamos, Carlo Ciliberto, Massimiliano Pontil
@@ -186,7 +214,10 @@ A Neural-Symbolic Architecture for Inverse Graphics Improved by Lifelong Meta-Le
 Incremental Learning-to-Learn with Statistical Guarantees [[paper](http://auai.org/uai2018/proceedings/papers/181.pdf)]
   - Giulia Denevi, Carlo Ciliberto, Dimitris Stamos, Massimiliano Pontil --arXiv 2018
   
-## Domain generation
+## Domain generalization
+Meta-learning curiosity algorithms [[paper](https://openreview.net/pdf?id=BygdyxHFDS)]
+  - Ferran Alet*, Martin F. Schneider*, Tomas Lozano-Perez, Leslie Pack Kaelbling --ICLR 2020
+
 Domain Generalization via Model-Agnostic Learning of Semantic Features [[paper](https://arxiv.org/abs/1910.13580)]
   - Qi Dou, Daniel C. Castro, Konstantinos Kamnitsas, Ben Glocker
   
@@ -194,6 +225,18 @@ Learning to Generalize: Meta-Learning for Domain Generalization
   - Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M. Hospedales -- arXiv 2018
 
 ## Bayesian inference
+Meta-Learning Acquisition Functions for Transfer Learning in Bayesian Optimization [[paper](https://openreview.net/forum?id=ryeYpJSKwr)]
+  - Michael Volpp, Lukas Froehlich, Kirsten Fischer, Andreas Doerr, Stefan Falkner, Frank Hutter, Christian Daniel --ICLR 2020
+
+Bayesian Meta Sampling for Fast Uncertainty Adaptation [[paper](https://openreview.net/forum?id=Bkxv90EKPB)]
+  - Zhenyi Wang, Yang Zhao, Ping Yu, Ruiyi Zhang, Changyou Chen --ICLR 2020
+
+Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks [[paper](https://openreview.net/pdf?id=rkeZIJBYvr)]
+  -Donghyun Na, Hae Beom Lee, Hayeon Lee, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang --ICLR 2020
+
+Meta-Learning without Memorization [[paper](https://openreview.net/pdf?id=BklEFpEYwS)]
+  - Mingzhang Yin, George Tucker, Mingyuan Zhou, Sergey Levine, Chelsea Finn --ICLR 2020
+
 Meta-Amortized Variational Inference and Learning [[paper](https://arxiv.org/pdf/1902.01950.pdf)]
   - Mike Wu, Kristy Choi, Noah Goodman, Stefano Ermon  --arXiv 2019
 
@@ -259,6 +302,7 @@ Kernel Learning and Meta Kernels for Transfer Learning  [[paper](http://www1.ics
   - Ulrich Ruckert
 
 ## Optimization
+
 MetaInit: Initializing learning by learning to initialize [[paper](https://papers.nips.cc/paper/9427-metainit-initializing-learning-by-learning-to-initialize)]
   - Yann N. Dauphin, Samuel Schoenholz  --NeurIPS 2019
   
@@ -272,7 +316,7 @@ Learning to Optimize in Swarms [[paper](https://arxiv.org/pdf/1911.03787.pdf)]
   - Yue Cao, Tianlong Chen, Zhangyang Wang, Yang Shen --arXiv 2019
 
 Meta-Learning with Warped Gradient Descent [[paper](https://arxiv.org/pdf/1909.00025.pdf)]
-  - Sebastian Flennerhag, Andrei A. Rusu, Razvan Pascanu, Hujun Yin, Raia Hadsell --arXiv 2019
+  - Sebastian Flennerhag, Andrei A. Rusu, Razvan Pascanu, Hujun Yin, Raia Hadsell --ICLR 2020
   
 Learning to Generalize to Unseen Tasks with Bilevel Optimization [[paper](https://arxiv.org/pdf/1908.01457.pdf)]
   - Hayeon Lee, Donghyun Na, Hae Beom Lee, Sung Ju Hwang --arXiv 2019
@@ -284,6 +328,9 @@ Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](
   - Dougal Maclaurin, David Duvenaud, Ryan P. Adams --ICML 2016
 
 ## Theory
+A Theoretical Analysis of the Number of Shots in Few-Shot Learning [[paper](https://openreview.net/forum?id=HkgB2TNYPS)]
+  - Tianshi Cao, Marc T Law, Sanja Fidler --ICLR 2020
+
 Efficient Meta Learning via Minibatch Proximal Update [[paper](https://papers.nips.cc/paper/8432-efficient-meta-learning-via-minibatch-proximal-update)]
   - Pan Zhou, Xiaotong Yuan, Huan Xu, Shuicheng Yan, Jiashi Feng --NeurIPS 2019
 
