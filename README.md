@@ -18,9 +18,6 @@ Learning to Learn via Self-Critique [[paper](https://arxiv.org/abs/1905.10295)]
 Learning from the Past: Continual Meta-Learning with Bayesian Graph Neural Networks [[paper](https://arxiv.org/abs/1911.04695)]
   - Yadan Luo, Zi Huang, Zheng Zhang, Ziwei Wang, Mahsa Baktashmotlagh, Yang Yang --arXiv 2019
 
-PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment [[paper](https://arxiv.org/abs/1908.06391)]
-  - Kaixin Wang, Jun Hao Liew, Yingtian Zou, Daquan Zhou, Jiashi Feng --ICCV 2019
-
 Few-Shot Learning with Global Class Representations [[paper](https://arxiv.org/pdf/1908.05257.pdf)]
   - Tiange Luo, Aoxue Li, Tao Xiang, Weiran Huang, Liwei Wang  --ICCV 2019
 
@@ -111,6 +108,10 @@ MetaPix: Few-Shot Video Retargeting [[paper](https://openreview.net/forum?id=SJx
 ### Object detection
 Few-shot Object Detection via Feature Reweighting [[paper](https://arxiv.org/abs/1812.01866)]
   - Bingyi Kang, Zhuang Liu, Xin Wang, Fisher Yu, Jiashi Feng, Trevor Darrell --ICCV 2019
+
+### Segmentation
+PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment [[paper](https://arxiv.org/abs/1908.06391)]
+  - Kaixin Wang, Jun Hao Liew, Yingtian Zou, Daquan Zhou, Jiashi Feng --ICCV 2019
 
 ### NLP
 Learning to Few-Shot Learn Across Diverse Natural Language Classification Tasks [[paper](https://arxiv.org/pdf/1911.03863.pdf)]
