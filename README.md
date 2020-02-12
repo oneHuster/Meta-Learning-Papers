@@ -189,8 +189,13 @@ Hierarchical Meta Learning [[paper](https://arxiv.org/abs/1904.09081)]
 
 
 ## Data Aug & Reg
+
 Meta Dropout: Learning to Perturb Latent Features for Generalization [[paper](https://openreview.net/forum?id=BJgd81SYwr)]
   - Hae Beom Lee, Taewook Nam, Eunho Yang, Sung Ju Hwang --ICLR 2020
+
+Learning to Reweight Examples for Robust Deep Learning [[paper](https://arxiv.org/abs/1803.09050)]
+  - Mengye Ren, Wenyuan Zeng, Bin Yang, Raquel Urtasun --ICML 2018
+
 
 ## Lifelong learning
 Online-Within-Online Meta-Learning [[paper](https://papers.nips.cc/paper/9468-online-within-online-meta-learning)]
