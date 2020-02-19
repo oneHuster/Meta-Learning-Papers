@@ -307,6 +307,11 @@ Deep Mean Functions for Meta-Learning in Gaussian Processes [[paper](https://arx
 Kernel Learning and Meta Kernels for Transfer Learning  [[paper](http://www1.icsi.berkeley.edu/~rueckert/papers/rueckert09kernel)]
   - Ulrich Ruckert
 
+## Robustness
+
+FeatureBoost: A Meta-Learning Algorithm that Improves Model Robustness [[paper](https://hunch.net/~jl/projects/robust/ml2krobust.pdf)]
+  -Joseph O'Sullivan, John Langford, Rich Caruana, Avrim Blum --ICML 2000
+
 ## Optimization
 
 MetaInit: Initializing learning by learning to initialize [[paper](https://papers.nips.cc/paper/9427-metainit-initializing-learning-by-learning-to-initialize)]
