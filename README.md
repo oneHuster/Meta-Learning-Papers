@@ -237,8 +237,11 @@ Meta-Learning Acquisition Functions for Transfer Learning in Bayesian Optimizati
 Bayesian Meta Sampling for Fast Uncertainty Adaptation [[paper](https://openreview.net/forum?id=Bkxv90EKPB)]
   - Zhenyi Wang, Yang Zhao, Ping Yu, Ruiyi Zhang, Changyou Chen --ICLR 2020
 
+Meta-Learning Mean Functions for Gaussian Processes [[paper](https://arxiv.org/pdf/1901.08098.pdf)]
+  - Vincent Fortuin, Heiko Strathmann, and Gunnar Rätsch --NeurIPS 2019 workshop
+
 Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks [[paper](https://openreview.net/pdf?id=rkeZIJBYvr)]
-  -Donghyun Na, Hae Beom Lee, Hayeon Lee, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang --ICLR 2020
+  - Donghyun Na, Hae Beom Lee, Hayeon Lee, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang --ICLR 2020
 
 Meta-Learning without Memorization [[paper](https://openreview.net/pdf?id=BklEFpEYwS)]
   - Mingzhang Yin, George Tucker, Mingyuan Zhou, Sergey Levine, Chelsea Finn --ICLR 2020
@@ -248,6 +251,9 @@ Meta-Amortized Variational Inference and Learning [[paper](https://arxiv.org/pdf
 
 Amortized Bayesian Meta-Learning [[paper](https://openreview.net/pdf?id=rkgpy3C5tX)]
   - Sachin Ravi, Alex Beatson --ICLR 2019
+
+Meta-Learning Probabilistic Inference For Prediction [[paper](https://arxiv.org/pdf/1805.09921.pdf)]
+  - Jonathan Gordon, John Bronskill, Matthias Bauer, Sebastian Nowozin, Richard E. Turner --ICLR 2019
 
 Meta-Learning Priors for Efficient Online Bayesian Regression [[paper](https://arxiv.org/abs/1807.08912)]
   - James Harrison, Apoorva Sharma, Marco Pavone --WAFR 2018
@@ -310,7 +316,7 @@ Kernel Learning and Meta Kernels for Transfer Learning  [[paper](http://www1.ics
 ## Robustness
 
 FeatureBoost: A Meta-Learning Algorithm that Improves Model Robustness [[paper](https://hunch.net/~jl/projects/robust/ml2krobust.pdf)]
-  -Joseph O'Sullivan, John Langford, Rich Caruana, Avrim Blum --ICML 2000
+  - Joseph O'Sullivan, John Langford, Rich Caruana, Avrim Blum --ICML 2000
 
 ## Optimization
 
