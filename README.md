@@ -12,11 +12,14 @@ Meta-learners’ learning dynamics are unlike learners’  [[paper](https://arxi
   - Neil C. Rabinowitz
 
 ## Few-shot learning
+Cross Attention Network for Few-shot Classification [[paper](https://arxiv.org/abs/1910.07677)]
+  - Ruibing Hou, Hong Chang, Bingpeng Ma, Shiguang Shan, Xilin Chen --NeurIPS 2019
+
 Learning to Learn via Self-Critique [[paper](https://arxiv.org/abs/1905.10295)]
   - Antreas Antoniou, Amos Storkey  --NeurIPS 2019
   
 Learning from the Past: Continual Meta-Learning with Bayesian Graph Neural Networks [[paper](https://arxiv.org/abs/1911.04695)]
-  - Yadan Luo, Zi Huang, Zheng Zhang, Ziwei Wang, Mahsa Baktashmotlagh, Yang Yang --arXiv 2019
+  - Yadan Luo, Zi Huang, Zheng Zhang, Ziwei Wang, Mahsa Baktashmotlagh, Yang Yang --AAAI 2020
 
 Few-Shot Learning with Global Class Representations [[paper](https://arxiv.org/pdf/1908.05257.pdf)]
   - Tiange Luo, Aoxue Li, Tao Xiang, Weiran Huang, Liwei Wang  --ICCV 2019
