@@ -30,6 +30,9 @@ TapNet: Neural Network Augmented with Task-Adaptive Projection for Few-Shot Lear
 Learning to Learn with Conditional Class Dependencies  [[paper](https://openreview.net/pdf?id=BJfOXnActQ)]
   - Xiang Jiang, Mohammad Havaei, Farshid Varno, Gabriel Chartrand, Nicolas Chapados, Stan Matwin --ICLR 2019
  
+ Finding Task-Relevant Features for Few-Shot Learning by Category Traversal [[paper](https://arxiv.org/pdf/1905.11116.pdf)]
+  - Hongyang Li, David Eigen, Samuel Dodge, Matthew Zeiler, Xiaogang Wang --CVPR 2019
+ 
 TAFE-Net: Task-Aware Feature Embeddings for Low Shot Learning [[paper](https://arxiv.org/abs/1904.05967)]
   - Xin Wang, Fisher Yu, Ruth Wang, Trevor Darrell, Joseph E. Gonzalez --CVPR 2019
 
