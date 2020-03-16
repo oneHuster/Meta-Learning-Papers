@@ -325,6 +325,8 @@ FeatureBoost: A Meta-Learning Algorithm that Improves Model Robustness [[paper](
   - Joseph O'Sullivan, John Langford, Rich Caruana, Avrim Blum --ICML 2000
 
 ## Optimization
+Transferring Knowledge across Learning Processes [[paper](https://openreview.net/forum?id=HygBZnRctX)]
+  - Sebastian Flennerhag, Pablo G. Moreno, Neil D. Lawrence, Andreas Damianou
 
 MetaInit: Initializing learning by learning to initialize [[paper](https://papers.nips.cc/paper/9427-metainit-initializing-learning-by-learning-to-initialize)]
   - Yann N. Dauphin, Samuel Schoenholz  --NeurIPS 2019
