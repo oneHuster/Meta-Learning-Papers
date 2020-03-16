@@ -277,6 +277,9 @@ Meta-learning by adjusting priors based on extended PAC-Bayes theory [[paper](ht
   - Ron Amit , Ron Meir --ICML 2018
 
 ## Learning curves
+Transferring Knowledge across Learning Processes [[paper](https://openreview.net/forum?id=HygBZnRctX)]
+  - Sebastian Flennerhag, Pablo G. Moreno, Neil D. Lawrence, Andreas Damianou --ICLR 2019
+
 Meta-Curvature [[paper](https://arxiv.org/abs/1902.03356)]
   - Eunbyung Park, Junier B. Oliva --NeurIPS 2019
   
@@ -326,7 +329,7 @@ FeatureBoost: A Meta-Learning Algorithm that Improves Model Robustness [[paper](
 
 ## Optimization
 Transferring Knowledge across Learning Processes [[paper](https://openreview.net/forum?id=HygBZnRctX)]
-  - Sebastian Flennerhag, Pablo G. Moreno, Neil D. Lawrence, Andreas Damianou
+  - Sebastian Flennerhag, Pablo G. Moreno, Neil D. Lawrence, Andreas Damianou --ICLR 2019
 
 MetaInit: Initializing learning by learning to initialize [[paper](https://papers.nips.cc/paper/9427-metainit-initializing-learning-by-learning-to-initialize)]
   - Yann N. Dauphin, Samuel Schoenholz  --NeurIPS 2019
