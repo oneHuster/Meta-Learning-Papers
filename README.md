@@ -127,6 +127,9 @@ Few-Shot Representation Learning for Out-Of-Vocabulary Words [[paper](https://ar
   - Ziniu Hu, Ting Chen, Kai-Wei Chang, Yizhou Sun --ACL 2019
 
 ## Reinforcement learning
+Generalized Reinforcement Meta Learning for Few-Shot Optimization [[paper](https://arxiv.org/abs/2005.01246)]
+  - Raviteja Anantha, Stephen Pulman, Srinivas Chappidi --ICML 2020
+
 VariBAD: A Very Good Method for Bayes-Adaptive Deep RL via Meta-Learning [[paper](https://openreview.net/forum?id=Hkl9JlBYvr)]
   - Luisa Zintgraf, Kyriacos Shiarlis, Maximilian Igl, Sebastian Schulze, Yarin Gal, Katja Hofmann, Shimon Whiteson --ICLR 2020
 
@@ -356,6 +359,12 @@ Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](
   - Dougal Maclaurin, David Duvenaud, Ryan P. Adams --ICML 2016
 
 ## Theory
+Meta-learning with Stochastic Linear Bandits [[paper](https://arxiv.org/abs/2005.04372)]
+  - Leonardo Cella, Alessandro Lazaric, Massimiliano Pontil --arXiv 2020
+
+Information-Theoretic Generalization Bounds for Meta-Learning and Applications [[paper](Sharu Theresa Jose, Osvaldo Simeone)]
+  - Sharu Theresa Jose and Osvaldo Simeone --arXiv 2020
+
 A Theoretical Analysis of the Number of Shots in Few-Shot Learning [[paper](https://openreview.net/forum?id=HkgB2TNYPS)]
   - Tianshi Cao, Marc T Law, Sanja Fidler --ICLR 2020
 
@@ -390,6 +399,9 @@ Algorithmic Stability and Meta-Learning  [[paper](http://www.jmlr.org/papers/vol
   - Andreas Maurer  --JMLR 2005
 
 ### Online convex optimization
+Bayesian Online Meta-Learning with Laplace Approximation [[paper](https://arxiv.org/abs/2005.00146)]
+  - Pau Ching Yap, Hippolyt Ritter, David Barber --arXiv 2020
+
 Online Meta-Learning on Non-convex Setting [[paper](https://arxiv.org/abs/1910.10196)]
   - Zhenxun Zhuang, Yunlong Wang, Kezi Yu, Songtao Lu --arXiv 2019
 
