@@ -331,6 +331,9 @@ FeatureBoost: A Meta-Learning Algorithm that Improves Model Robustness [[paper](
   - Joseph O'Sullivan, John Langford, Rich Caruana, Avrim Blum --ICML 2000
 
 ## Optimization
+Empirical Bayes Transductive Meta-Learning with Synthetic Gradients [[paper](https://arxiv.org/abs/2004.12696)]
+  - Shell Xu Hu, Pablo G. Moreno, Yang Xiao, Xi Shen, Guillaume Obozinski, Neil D. Lawrence, Andreas Damianou --ICLR 2020
+
 Transferring Knowledge across Learning Processes [[paper](https://openreview.net/forum?id=HygBZnRctX)]
   - Sebastian Flennerhag, Pablo G. Moreno, Neil D. Lawrence, Andreas Damianou --ICLR 2019
 
@@ -359,7 +362,7 @@ Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](
   - Dougal Maclaurin, David Duvenaud, Ryan P. Adams --ICML 2016
 
 ## Theory
-Information-Theoretic Generalization Bounds for Meta-Learning and Applications [[paper](Sharu Theresa Jose, Osvaldo Simeone)]
+Information-Theoretic Generalization Bounds for Meta-Learning and Applications [[paper](https://arxiv.org/abs/2005.04372)]
   - Sharu Theresa Jose and Osvaldo Simeone --arXiv 2020
 
 A Theoretical Analysis of the Number of Shots in Few-Shot Learning [[paper](https://openreview.net/forum?id=HkgB2TNYPS)]
