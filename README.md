@@ -2,6 +2,9 @@
 A summary of meta learning papers based on taxonomic category. Sorted by submitted date on arXiv.
 
 ## Survey
+Meta-Learning in Neural Networks: A Survey [[paper](https://arxiv.org/abs/2004.05439)]
+  - Timothy Hospedales, Antreas Antoniou, Paul Micaelli, Amos Storkey 
+
 Meta-Learning[[paper](https://www.ml4aad.org/wp-content/uploads/2018/09/chapter2-metalearning.pdf)]
   - Joaquin Vanschoren
 
@@ -120,8 +123,11 @@ PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment [[paper](ht
   - Kaixin Wang, Jun Hao Liew, Yingtian Zou, Daquan Zhou, Jiashi Feng --ICCV 2019
 
 ### NLP
+Meta-Learning for Few-Shot NMT Adaptation [[paper](https://arxiv.org/abs/2004.02745)]
+  - Amr Sharaf, Hany Hassan, Hal Daumé III --arXiv 2020
+
 Learning to Few-Shot Learn Across Diverse Natural Language Classification Tasks [[paper](https://arxiv.org/pdf/1911.03863.pdf)]
-  - Trapit Bansal, Rishikesh Jha, Andrew McCallum  --arXiv 
+  - Trapit Bansal, Rishikesh Jha, Andrew McCallum  --arXiv 2020
 
 Few-Shot Representation Learning for Out-Of-Vocabulary Words [[paper](https://arxiv.org/abs/1907.00505)]
   - Ziniu Hu, Ting Chen, Kai-Wei Chang, Yizhou Sun --ACL 2019
