@@ -129,6 +129,9 @@ Meta-Learning for Few-Shot NMT Adaptation [[paper](https://arxiv.org/abs/2004.02
 Learning to Few-Shot Learn Across Diverse Natural Language Classification Tasks [[paper](https://arxiv.org/pdf/1911.03863.pdf)]
   - Trapit Bansal, Rishikesh Jha, Andrew McCallum  --arXiv 2020
 
+Compositional generalization through meta sequence-to-sequence learning [[paper](https://arxiv.org/abs/1906.05381)]
+  - Brenden M. Lake  --NeurIPS 2019
+
 Few-Shot Representation Learning for Out-Of-Vocabulary Words [[paper](https://arxiv.org/abs/1907.00505)]
   - Ziniu Hu, Ting Chen, Kai-Wei Chang, Yizhou Sun --ACL 2019
 
