@@ -328,6 +328,10 @@ N2N Learning: Network to Network Compression via Policy Gradient Reinforcement L
   - Anubhav Ashok, Nicholas Rhinehart, Fares Beainy, Kris M. Kitani --ICLR 2018
 
 ## Kernel learning
+
+Deep Kernel Transfer in Gaussian Processes for Few-shot Learning [[paper](https://arxiv.org/pdf/1910.05199.pdf)]
+  - Massimiliano Patacchiola, Jack Turner, Elliot J. Crowley, Michael O’Boyle, Amos Storkey --arXiv 2020
+
 Deep Mean Functions for Meta-Learning in Gaussian Processes [[paper](https://arxiv.org/pdf/1901.08098.pdf)]
   - Vincent Fortuin, Gunnar Rätsch --arXiv 2019
 
