@@ -15,6 +15,13 @@ Meta-learners’ learning dynamics are unlike learners’  [[paper](https://arxi
   - Neil C. Rabinowitz
 
 ## Few-shot learning
+
+Prototype Rectification for Few-Shot Learning [[paper](Jinlu Liu, Liang Song, Yongqiang Qin)]
+  - Jinlu Liu, Liang Song, Yongqiang Qin --ECCV 2020
+
+When Does Self-supervision Improve Few-shot Learning? [[paper](https://arxiv.org/pdf/1910.03560.pdf)]
+  - Jong-Chyi Su, Subhransu Maji, Bharath Hariharan --ECCV 2020
+  
 Cross Attention Network for Few-shot Classification [[paper](https://arxiv.org/abs/1910.07677)]
   - Ruibing Hou, Hong Chang, Bingpeng Ma, Shiguang Shan, Xilin Chen --NeurIPS 2019
 
