@@ -252,8 +252,8 @@ Meta-learning curiosity algorithms [[paper](https://openreview.net/pdf?id=Bygdyx
 Domain Generalization via Model-Agnostic Learning of Semantic Features [[paper](https://arxiv.org/abs/1910.13580)]
   - Qi Dou, Daniel C. Castro, Konstantinos Kamnitsas, Ben Glocker
   
-Learning to Generalize: Meta-Learning for Domain Generalization
-  - Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M. Hospedales -- arXiv 2018
+Learning to Generalize: Meta-Learning for Domain Generalization [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16067/16547)]
+  - Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M. Hospedales --AAAI 2018
 
 ## Bayesian inference
 Meta-Learning Acquisition Functions for Transfer Learning in Bayesian Optimization [[paper](https://openreview.net/forum?id=ryeYpJSKwr)]
