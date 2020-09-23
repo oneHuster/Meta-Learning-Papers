@@ -16,7 +16,7 @@ Meta-learners’ learning dynamics are unlike learners’  [[paper](https://arxi
 
 ## Few-shot learning
 
-Prototype Rectification for Few-Shot Learning [[paper](Jinlu Liu, Liang Song, Yongqiang Qin)]
+Prototype Rectification for Few-Shot Learning [[paper](https://arxiv.org/abs/1911.10713)]
   - Jinlu Liu, Liang Song, Yongqiang Qin --ECCV 2020
 
 When Does Self-supervision Improve Few-shot Learning? [[paper](https://arxiv.org/pdf/1910.03560.pdf)]
@@ -302,7 +302,10 @@ Transferring Knowledge across Learning Processes [[paper](https://openreview.net
 Meta-Curvature [[paper](https://arxiv.org/abs/1902.03356)]
   - Eunbyung Park, Junier B. Oliva --NeurIPS 2019
   
-## Configuration transfer
+## Configuration transfer (Adaptation)
+
+Meta-Learning for Few-Shot NMT Adaptation [[paper](https://www.aclweb.org/anthology/2020.ngt-1.5.pdf)]
+  - Amr Sharaf, Hany Hassan, Hal Daumé III --arXiv 2020
 
 Fast Context Adaptation via Meta-Learning [[paper](https://arxiv.org/pdf/1810.03642.pdf)]
   - Luisa M Zintgraf, Kyriacos Shiarlis, Vitaly Kurin, Katja Hofmann, Shimon Whiteson  --ICML 2019
@@ -312,6 +315,9 @@ Zero-Shot Knowledge Distillation in Deep Networks [[paper](https://arxiv.org/pdf
 
 Toward Multimodal Model-Agnostic Meta-Learning [[paper](https://arxiv.org/pdf/1812.07172.pdf)]
   - Risto Vuorio, Shao-Hua Sun, Hexiang Hu, Joseph J. Lim  --arXiv 2019
+
+Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[paper](https://arxiv.org/abs/1703.03400)]
+  - Chelsea Finn, Pieter Abbeel, Sergey Levine -- ICML 2016
 
 ### Unsupervised learning
 Unsupervised Learning via Meta-Learning [[paper](https://arxiv.org/abs/1810.02334)]
