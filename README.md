@@ -388,6 +388,10 @@ Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](
   - Dougal Maclaurin, David Duvenaud, Ryan P. Adams --ICML 2016
 
 ## Theory
+
+Meta-learning for mixed linear regression [[paper](https://proceedings.icml.cc/static/paper_files/icml/2020/6124-Paper.pdf)]
+  - Weihao Kong, Raghav Somani, Zhao Song, Sham Kakade, Sewoong Oh --ICML 2020
+
 Information-Theoretic Generalization Bounds for Meta-Learning and Applications [[paper](https://arxiv.org/abs/2005.04372)]
   - Sharu Theresa Jose and Osvaldo Simeone --arXiv 2020
 
@@ -423,6 +427,7 @@ Fast Rates by Transferring from Auxiliary Hypotheses [[paper](https://arxiv.org/
 
 Algorithmic Stability and Meta-Learning  [[paper](http://www.jmlr.org/papers/volume6/maurer05a/maurer05a.pdf)]
   - Andreas Maurer  --JMLR 2005
+
 
 ### Online convex optimization
 Meta-learning with Stochastic Linear Bandits [[paper](https://arxiv.org/abs/2005.04372)]
