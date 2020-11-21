@@ -358,6 +358,8 @@ Kernel Learning and Meta Kernels for Transfer Learning  [[paper](http://www1.ics
   - Ulrich Ruckert
 
 ## Robustness
+Task-Robust Model-Agnostic Meta-Learning [[paper](https://papers.nips.cc/paper/2020/file/da8ce53cf0240070ce6c69c48cd588ee-Paper.pdf)]
+  - Liam Collins, Aryan Mokhtari, Sanjay Shakkottai --NeurIPS 2020
 
 FeatureBoost: A Meta-Learning Algorithm that Improves Model Robustness [[paper](https://hunch.net/~jl/projects/robust/ml2krobust.pdf)]
   - Joseph O'Sullivan, John Langford, Rich Caruana, Avrim Blum --ICML 2000
