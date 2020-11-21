@@ -143,6 +143,10 @@ Few-Shot Representation Learning for Out-Of-Vocabulary Words [[paper](https://ar
   - Ziniu Hu, Ting Chen, Kai-Wei Chang, Yizhou Sun --ACL 2019
 
 ## Reinforcement learning
+
+On the Global Optimality of Model-Agnostic Meta-Learning: Reinforcement Learning and Supervised Learning [[paper](https://proceedings.icml.cc/static/paper_files/icml/2020/1816-Paper.pdf)]
+  - Lingxiao Wang, Qi Cai, Zhuoyan Yang, Zhaoran Wang --PMLR 2020
+
 Generalized Reinforcement Meta Learning for Few-Shot Optimization [[paper](https://arxiv.org/abs/2005.01246)]
   - Raviteja Anantha, Stephen Pulman, Srinivas Chappidi --ICML 2020
 
@@ -175,6 +179,8 @@ Bayesian Meta-network Architecture Learning
   - Albert Shaw, Bo Dai, Weiyang Liu, Le Song --arXiv 2018
   
 ## Task-dependent
+Task-Robust Model-Agnostic Meta-Learning [[paper](https://papers.nips.cc/paper/2020/file/da8ce53cf0240070ce6c69c48cd588ee-Paper.pdf)]
+  - Liam Collins, Aryan Mokhtari, Sanjay Shakkottai --NeurIPS 2020
 
 Multimodal Model-Agnostic Meta-Learning via Task-Aware Modulation [[paper](https://arxiv.org/abs/1910.13616)]
   - Risto Vuorio, Shao-Hua Sun, Hexiang Hu, Joseph J. Lim --NeurIPS 2019
@@ -357,6 +363,10 @@ FeatureBoost: A Meta-Learning Algorithm that Improves Model Robustness [[paper](
   - Joseph O'Sullivan, John Langford, Rich Caruana, Avrim Blum --ICML 2000
 
 ## Optimization
+
+Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML [[paper](https://openreview.net/pdf/f0530e2cf88af3b74bf61bc8591b7a5a1339c49e.pdf)]
+  - Aniruddh Raghu, Maithra Raghu, Samy Bengio, Oriol Vinyals --ICLR 2020
+
 Empirical Bayes Transductive Meta-Learning with Synthetic Gradients [[paper](https://arxiv.org/abs/2004.12696)]
   - Shell Xu Hu, Pablo G. Moreno, Yang Xiao, Xi Shen, Guillaume Obozinski, Neil D. Lawrence, Andreas Damianou --ICLR 2020
 
@@ -388,6 +398,11 @@ Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](
   - Dougal Maclaurin, David Duvenaud, Ryan P. Adams --ICML 2016
 
 ## Theory
+The Advantage of Conditional Meta-Learning for Biased Regularization and Fine-Tuning [[paper](https://arxiv.org/abs/2006.09486)]
+  - Giulia Denevi, Massimiliano Pontil, Carlo Ciliberto --NeurIPS 2020
+
+Convergence of Meta-Learning with Task-Specific Adaptation over Partial Parameters [[paper](https://arxiv.org/abs/2006.09486)]
+  - Kaiyi Ji, Jason D. Lee, Yingbin Liang, H. Vincent Poor --NeurIPS 2020
 
 Meta-learning for mixed linear regression [[paper](https://proceedings.icml.cc/static/paper_files/icml/2020/6124-Paper.pdf)]
   - Weihao Kong, Raghav Somani, Zhao Song, Sham Kakade, Sewoong Oh --ICML 2020
