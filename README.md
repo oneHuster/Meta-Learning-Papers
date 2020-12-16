@@ -15,6 +15,10 @@ Meta-learners’ learning dynamics are unlike learners’  [[paper](https://arxi
   - Neil C. Rabinowitz
 
 ## Few-shot learning
+
+Laplacian Regularized Few-Shot Learning [[paper](http://proceedings.mlr.press/v119/ziko20a/ziko20a.pdf)]
+  - Imtiaz Masud Ziko, Jose Dolz, Eric Granger, Ismail Ben Ayed --ICML 2020
+
 Few-shot Sequence Learning with Transformer 
   -  Lajanugen Logeswaran, Ann Lee, Myle Ott, Honglak Lee, Marc´Aurelio Ranzato, Arthur Szlam --NeurIPS 2020 #Meta-Learning
 
