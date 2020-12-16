@@ -15,6 +15,8 @@ Meta-learners’ learning dynamics are unlike learners’  [[paper](https://arxi
   - Neil C. Rabinowitz
 
 ## Few-shot learning
+Few-shot Sequence Learning with Transformer 
+  -  Lajanugen Logeswaran, Ann Lee, Myle Ott, Honglak Lee, Marc´Aurelio Ranzato, Arthur Szlam --NeurIPS 2020 #Meta-Learning
 
 Prototype Rectification for Few-Shot Learning [[paper](https://arxiv.org/abs/1911.10713)]
   - Jinlu Liu, Liang Song, Yongqiang Qin --ECCV 2020
@@ -445,6 +447,9 @@ Fast Rates by Transferring from Auxiliary Hypotheses [[paper](https://arxiv.org/
 Algorithmic Stability and Meta-Learning  [[paper](http://www.jmlr.org/papers/volume6/maurer05a/maurer05a.pdf)]
   - Andreas Maurer  --JMLR 2005
 
+### Inductive bias
+Tailoring: encoding inductive biases by optimizing unsupervised objectives at prediction time
+  - Ferran Alet, Kenji Kawaguchi, Maria Bauza, Nurallah Giray Kuru, Tomás Lozano-Pérez, Leslie Pack Kaelbling  --NeurIPS 2020 #Meta-Learning
 
 ### Online convex optimization
 Meta-learning with Stochastic Linear Bandits [[paper](https://arxiv.org/abs/2005.04372)]
