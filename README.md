@@ -16,6 +16,9 @@ Meta-learners’ learning dynamics are unlike learners’  [[paper](https://arxi
 
 ## Few-shot learning
 
+Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels [[paper](https://arxiv.org/abs/1910.05199)]
+  - Massimiliano Patacchiola, Jack Turner, Elliot J. Crowley, Michael O'Boyle, Amos Storkey --NeurIPS 2020
+
 Laplacian Regularized Few-Shot Learning [[paper](http://proceedings.mlr.press/v119/ziko20a/ziko20a.pdf)]
   - Imtiaz Masud Ziko, Jose Dolz, Eric Granger, Ismail Ben Ayed --ICML 2020
 
@@ -315,6 +318,8 @@ Meta-Curvature [[paper](https://arxiv.org/abs/1902.03356)]
   - Eunbyung Park, Junier B. Oliva --NeurIPS 2019
   
 ## Configuration transfer (Adaptation)
+Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels [[paper](https://arxiv.org/abs/1910.05199)]
+  - Massimiliano Patacchiola, Jack Turner, Elliot J. Crowley, Michael O'Boyle, Amos Storkey --NeurIPS 2020
 
 Meta-Learning for Few-Shot NMT Adaptation [[paper](https://www.aclweb.org/anthology/2020.ngt-1.5.pdf)]
   - Amr Sharaf, Hany Hassan, Hal Daumé III --arXiv 2020
