@@ -153,6 +153,9 @@ Few-Shot Representation Learning for Out-Of-Vocabulary Words [[paper](https://ar
 
 ## Reinforcement learning
 
+Information-theoretic Task Selection for Meta-Reinforcement Learning [[paper](https://arxiv.org/abs/2011.01054)]
+  - Ricardo Luna Gutierrez, Matteo Leonetti --NeurIPS 2020
+
 On the Global Optimality of Model-Agnostic Meta-Learning: Reinforcement Learning and Supervised Learning [[paper](https://proceedings.icml.cc/static/paper_files/icml/2020/1816-Paper.pdf)]
   - Lingxiao Wang, Qi Cai, Zhuoyan Yang, Zhaoran Wang --PMLR 2020
 
@@ -188,6 +191,9 @@ Bayesian Meta-network Architecture Learning
   - Albert Shaw, Bo Dai, Weiyang Liu, Le Song --arXiv 2018
   
 ## Task-dependent
+Meta-Regularization by Enforcing Mutual-Exclusiveness [[paper](https://arxiv.org/abs/2101.09819)]
+  - Edwin Pan, Pankaj Rajak, Shubham Shrivastava --arXiv 2021
+
 Task-Robust Model-Agnostic Meta-Learning [[paper](https://papers.nips.cc/paper/2020/file/da8ce53cf0240070ce6c69c48cd588ee-Paper.pdf)]
   - Liam Collins, Aryan Mokhtari, Sanjay Shakkottai --NeurIPS 2020
 
@@ -230,6 +236,8 @@ Hierarchical Meta Learning [[paper](https://arxiv.org/abs/1904.09081)]
 
 
 ## Data Aug & Reg
+MetaInfoNet: Learning Task-Guided Information for Sample Reweighting [[paper](https://arxiv.org/abs/2012.05273)]
+  - Hongxin Wei, Lei Feng, Rundong Wang, Bo An --arXiv 2020
 
 Meta Dropout: Learning to Perturb Latent Features for Generalization [[paper](https://openreview.net/forum?id=BJgd81SYwr)]
   - Hae Beom Lee, Taewook Nam, Eunho Yang, Sung Ju Hwang --ICLR 2020
@@ -411,6 +419,9 @@ Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](
   - Dougal Maclaurin, David Duvenaud, Ryan P. Adams --ICML 2016
 
 ## Theory
+Transfer Meta-Learning: Information-Theoretic Bounds and Information Meta-Risk Minimization [[paper](https://arxiv.org/pdf/2011.02872.pdf)]
+  - Sharu Theresa Jose, Osvaldo Simeone, Giuseppe Durisi --arXiv 2020
+
 The Advantage of Conditional Meta-Learning for Biased Regularization and Fine-Tuning [[paper](https://arxiv.org/abs/2006.09486)]
   - Giulia Denevi, Massimiliano Pontil, Carlo Ciliberto --NeurIPS 2020
 
