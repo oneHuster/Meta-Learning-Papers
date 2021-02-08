@@ -299,6 +299,9 @@ Meta-Amortized Variational Inference and Learning [[paper](https://arxiv.org/pdf
 
 Amortized Bayesian Meta-Learning [[paper](https://openreview.net/pdf?id=rkgpy3C5tX)]
   - Sachin Ravi, Alex Beatson --ICLR 2019
+  
+Neural Processes [[paper](https://arxiv.org/abs/1807.01622)]
+  - Marta Garnelo, Jonathan Schwarz, Dan Rosenbaum, Fabio Viola, Danilo J. Rezende, S.M. Ali Eslami, Yee Whye Teh 
 
 Meta-Learning Probabilistic Inference For Prediction [[paper](https://arxiv.org/pdf/1805.09921.pdf)]
   - Jonathan Gordon, John Bronskill, Matthias Bauer, Sebastian Nowozin, Richard E. Turner --ICLR 2019
