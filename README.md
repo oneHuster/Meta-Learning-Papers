@@ -422,6 +422,10 @@ Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](
   - Dougal Maclaurin, David Duvenaud, Ryan P. Adams --ICML 2016
 
 ## Theory
+
+Why Does MAML Outperform ERM? An Optimization Perspective [[paper](https://arxiv.org/pdf/2010.14672.pdf)]
+  - Liam Collins, Aryan Mokhtari, Sanjay Shakkottai --arXiv 2020
+
 Transfer Meta-Learning: Information-Theoretic Bounds and Information Meta-Risk Minimization [[paper](https://arxiv.org/pdf/2011.02872.pdf)]
   - Sharu Theresa Jose, Osvaldo Simeone, Giuseppe Durisi --arXiv 2020
 
@@ -492,3 +496,4 @@ Learning-to-Learn Stochastic Gradient Descent with Biased Regularization [[paper
 
 Provable Guarantees for Gradient-Based Meta-Learning
   -  Mikhail Khodak Maria-Florina Balcan Ameet Talwalkar --arXiv 2019 
+
