@@ -279,6 +279,10 @@ Learning to Generalize: Meta-Learning for Domain Generalization [[paper](https:/
   - Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M. Hospedales --AAAI 2018
 
 ## Bayesian inference
+
+Meta-Learning with Variational Bayes [[paper](https://arxiv.org/abs/2103.02265)]
+  - Lucas D. Lingle --arXiv 2021
+
 Meta-Learning Acquisition Functions for Transfer Learning in Bayesian Optimization [[paper](https://openreview.net/forum?id=ryeYpJSKwr)]
   - Michael Volpp, Lukas Froehlich, Kirsten Fischer, Andreas Doerr, Stefan Falkner, Frank Hutter, Christian Daniel --ICLR 2020
 
