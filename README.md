@@ -1,5 +1,5 @@
 # Meta-Learning Papers
-A summary of meta learning papers based on taxonomic category. Sorted by submitted date on arXiv.
+A summary of meta learning papers based on realm. Sorted by submission date on arXiv.
 
 ## Survey
 Meta-Learning in Neural Networks: A Survey [[paper](https://arxiv.org/abs/2004.05439)]
