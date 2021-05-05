@@ -390,6 +390,11 @@ Task-Robust Model-Agnostic Meta-Learning [[paper](https://papers.nips.cc/paper/2
 FeatureBoost: A Meta-Learning Algorithm that Improves Model Robustness [[paper](https://hunch.net/~jl/projects/robust/ml2krobust.pdf)]
   - Joseph O'Sullivan, John Langford, Rich Caruana, Avrim Blum --ICML 2000
 
+## Continuous time
+
+Meta-learning using privileged information for dynamics [[paper](https://arxiv.org/pdf/2104.14290.pdf)]
+  - Ben Day, Alexander Norcliffe, Jacob Moss, Pietro Liò --ICLR 2020 #Learning to Learn and SimDL
+
 ## Optimization
 
 Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML [[paper](https://openreview.net/pdf/f0530e2cf88af3b74bf61bc8591b7a5a1339c49e.pdf)]
