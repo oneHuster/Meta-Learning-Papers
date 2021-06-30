@@ -123,6 +123,19 @@ Image Deformation Meta-Networks for One-Shot Learning [[paper](https://arxiv.org
   - Zitian Chen, Yanwei Fu, Yu-Xiong Wang, Lin Ma, Wei Liu, Martial Hebert --CVPR 2019
 
 ### Imbalance class
+
+MESA: Boost Ensemble Imbalanced Learning with MEta-SAmpler [[paper](https://proceedings.neurips.cc/paper/2020/file/a64bd53139f71961c5c31a9af03d775e-Paper.pdf)]
+  - Zhining Liu, Pengfei Wei, Jing Jiang, Wei Cao, Jiang Bian, Yi Chang --NeurIPS 2019
+
+Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks [[paper](https://openreview.net/pdf?id=rkeZIJBYvr)]
+  - Donghyun Na, Hae Beom Lee, Hayeon Lee, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang --ICLR 2020
+
+Meta-weight-net: Learning an explicit mapping for sample weighting [[paper](https://papers.nips.cc/paper/2019/file/e58cc5ca94270acaceed13bc82dfedf7-Paper.pdf)]
+  - Jun Shu, Qi Xie, Lixuan Yi, Qian Zhao, Sanping Zhou, Zongben Xu, Deyu Meng --NeurIPS 2019
+
+Learning to Reweight Examples for Robust Deep Learning [[paper](https://arxiv.org/pdf/1803.09050.pdf)]
+  - Mengye Ren, Wenyuan Zeng, Bin Yang, Raquel Urtasun --ICML 2018
+
 Learning to Model the Tail [[paper](https://papers.nips.cc/paper/7278-learning-to-model-the-tail.pdf)]
   - Yu-Xiong Wang, Deva Ramanan, Martial Hebert --NeurIPS 2017
 
