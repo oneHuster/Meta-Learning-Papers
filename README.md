@@ -15,6 +15,8 @@ Meta-learners’ learning dynamics are unlike learners’  [[paper](https://arxi
   - Neil C. Rabinowitz
 
 ## Few-shot learning
+BOIL: Towards Representation Change for Few-shot Learning [[paper](https://openreview.net/forum?id=umIdUL8rMH)]
+  - Jaehoon Oh, Hyungjun Yoo, ChangHwan Kim, Se-Young Yun --ICLR 2021
 
 Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels [[paper](https://arxiv.org/abs/1910.05199)]
   - Massimiliano Patacchiola, Jack Turner, Elliot J. Crowley, Michael O'Boyle, Amos Storkey --NeurIPS 2020
@@ -123,6 +125,8 @@ Image Deformation Meta-Networks for One-Shot Learning [[paper](https://arxiv.org
   - Zitian Chen, Yanwei Fu, Yu-Xiong Wang, Lin Ma, Wei Liu, Martial Hebert --CVPR 2019
 
 ### Imbalance class
+Balanced Meta-Softmax for Long-Tailed Visual Recognition [[paper](https://arxiv.org/abs/2007.10740)]
+  - Jiawei Ren, Cunjun Yu, Shunan Sheng, Xiao Ma, Haiyu Zhao, Shuai Yi, Hongsheng Li --NeurIPS 2020
 
 MESA: Boost Ensemble Imbalanced Learning with MEta-SAmpler [[paper](https://proceedings.neurips.cc/paper/2020/file/a64bd53139f71961c5c31a9af03d775e-Paper.pdf)]
   - Zhining Liu, Pengfei Wei, Jing Jiang, Wei Cao, Jiang Bian, Yi Chang --NeurIPS 2019
