@@ -401,6 +401,9 @@ Kernel Learning and Meta Kernels for Transfer Learning  [[paper](http://www1.ics
   - Ulrich Ruckert
 
 ## Robustness
+A Closer Look at the Training Strategy for Modern Meta-Learning [[paper](https://proceedings.neurips.cc/paper/2020/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html)]
+  - JIAXIN CHEN, Xiao-Ming Wu, Yanke Li, Qimai LI, Li-Ming Zhan, Fu-lai Chung --NeurIPS 2020
+
 Task-Robust Model-Agnostic Meta-Learning [[paper](https://papers.nips.cc/paper/2020/file/da8ce53cf0240070ce6c69c48cd588ee-Paper.pdf)]
   - Liam Collins, Aryan Mokhtari, Sanjay Shakkottai --NeurIPS 2020
 
@@ -448,6 +451,11 @@ Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](
   - Dougal Maclaurin, David Duvenaud, Ryan P. Adams --ICML 2016
 
 ## Theory
+Information-Theoretic Generalization Bounds for Meta-Learning and Applications [[paper](https://arxiv.org/pdf/2005.04372.pdf)]
+  - Sharu Theresa Jose, Osvaldo Simeone --arXiv 2021
+
+A Closer Look at the Training Strategy for Modern Meta-Learning [[paper](https://proceedings.neurips.cc/paper/2020/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html)]
+  - JIAXIN CHEN, Xiao-Ming Wu, Yanke Li, Qimai LI, Li-Ming Zhan, Fu-lai Chung --NeurIPS 2020
 
 Why Does MAML Outperform ERM? An Optimization Perspective [[paper](https://arxiv.org/pdf/2010.14672.pdf)]
   - Liam Collins, Aryan Mokhtari, Sanjay Shakkottai --arXiv 2020
