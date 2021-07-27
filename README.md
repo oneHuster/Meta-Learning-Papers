@@ -451,6 +451,10 @@ Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](
   - Dougal Maclaurin, David Duvenaud, Ryan P. Adams --ICML 2016
 
 ## Theory
+
+Bilevel Optimization: Convergence Analysis and Enhanced Design [[paper](http://proceedings.mlr.press/v139/ji21c/ji21c.pdf)]
+  - Kaiyi Ji, Junjie Yang, Yingbin Liang --ICML 2021
+
 Information-Theoretic Generalization Bounds for Meta-Learning and Applications [[paper](https://arxiv.org/pdf/2005.04372.pdf)]
   - Sharu Theresa Jose, Osvaldo Simeone --arXiv 2021
 
