@@ -452,8 +452,14 @@ Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](
 
 ## Theory
 
+A Representation Learning Perspective on the Importance of Train-Validation Splitting in Meta-Learning [[paper](https://arxiv.org/pdf/2106.15615.pdf)]
+  - Nikunj Saunshi, Arushi Gupta, and Wei Hu --ICML 2021
+
 Bilevel Optimization: Convergence Analysis and Enhanced Design [[paper](http://proceedings.mlr.press/v139/ji21c/ji21c.pdf)]
   - Kaiyi Ji, Junjie Yang, Yingbin Liang --ICML 2021
+
+How Important is the Train-Validation Split in Meta-Learning? [[paper](https://arxiv.org/abs/2010.05843)]
+  - Yu Bai, Minshuo Chen, Pan Zhou, Tuo Zhao, Jason D. Lee, Sham Kakade, Huan Wang, Caiming Xiong --ICML 2021
 
 Information-Theoretic Generalization Bounds for Meta-Learning and Applications [[paper](https://arxiv.org/pdf/2005.04372.pdf)]
   - Sharu Theresa Jose, Osvaldo Simeone --arXiv 2021
