@@ -168,7 +168,11 @@ Compositional generalization through meta sequence-to-sequence learning [[paper]
 Few-Shot Representation Learning for Out-Of-Vocabulary Words [[paper](https://arxiv.org/abs/1907.00505)]
   - Ziniu Hu, Ting Chen, Kai-Wei Chang, Yizhou Sun --ACL 2019
 
+
 ## Reinforcement learning
+
+Modeling and Optimization Trade-off in Meta-learning [[paper](https://proceedings.neurips.cc/paper/2020/hash/7fc63ff01769c4fa7d9279e97e307829-Abstract.html)]
+  - Katelyn Gao, Ozan Sener --NeurIPS 2020
 
 Information-theoretic Task Selection for Meta-Reinforcement Learning [[paper](https://arxiv.org/abs/2011.01054)]
   - Ricardo Luna Gutierrez, Matteo Leonetti --NeurIPS 2020
@@ -368,12 +372,16 @@ Toward Multimodal Model-Agnostic Meta-Learning [[paper](https://arxiv.org/pdf/18
 Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[paper](https://arxiv.org/abs/1703.03400)]
   - Chelsea Finn, Pieter Abbeel, Sergey Levine -- ICML 2016
 
-### Unsupervised learning
+### Semi/Unsupervised learning
+
 Unsupervised Learning via Meta-Learning [[paper](https://arxiv.org/abs/1810.02334)]
   - Kyle Hsu, Sergey Levine, Chelsea Finn -- ICLR 2019
   
 Meta-Learning Update Rules for Unsupervised Representation Learning [[paper](https://openreview.net/pdf?id=HkNDsiC9KQ)]
   - Luke Metz, Niru Maheswaranathan, Brian Cheung, Jascha Sohl-Dickstein --ICLR 2019
+
+Meta-Learning for Semi-Supervised Few-Shot Classification [[paper](https://arxiv.org/pdf/1803.00676.pdf)]
+  - Mengye Ren, Eleni Triantafillou, Sachin Ravi, Jake Snell, Kevin Swersky, Joshua B. Tenenbaum, Hugo Larochelle, Richard S. Zemel --ICLR 2018
 
 Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace [[paper](https://arxiv.org/abs/1903.08254)]
   - Kate Rakelly, Aurick Zhou, Deirdre Quillen, Chelsea Finn, Sergey Levine  --ICML 2018
@@ -451,7 +459,6 @@ Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](
   - Dougal Maclaurin, David Duvenaud, Ryan P. Adams --ICML 2016
 
 ## Theory
-
 A Representation Learning Perspective on the Importance of Train-Validation Splitting in Meta-Learning [[paper](https://arxiv.org/pdf/2106.15615.pdf)]
   - Nikunj Saunshi, Arushi Gupta, and Wei Hu --ICML 2021
 
@@ -463,6 +470,10 @@ How Important is the Train-Validation Split in Meta-Learning? [[paper](https://a
 
 Information-Theoretic Generalization Bounds for Meta-Learning and Applications [[paper](https://arxiv.org/pdf/2005.04372.pdf)]
   - Sharu Theresa Jose, Osvaldo Simeone --arXiv 2021
+
+
+Modeling and Optimization Trade-off in Meta-learning [[paper](https://proceedings.neurips.cc/paper/2020/hash/7fc63ff01769c4fa7d9279e97e307829-Abstract.html)]
+  - Katelyn Gao, Ozan Sener --NeurIPS 2020
 
 A Closer Look at the Training Strategy for Modern Meta-Learning [[paper](https://proceedings.neurips.cc/paper/2020/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html)]
   - JIAXIN CHEN, Xiao-Ming Wu, Yanke Li, Qimai LI, Li-Ming Zhan, Fu-lai Chung --NeurIPS 2020
