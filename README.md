@@ -352,7 +352,30 @@ Transferring Knowledge across Learning Processes [[paper](https://openreview.net
 
 Meta-Curvature [[paper](https://arxiv.org/abs/1902.03356)]
   - Eunbyung Park, Junier B. Oliva --NeurIPS 2019
-  
+
+## Neural process
+
+Neural ODE Processes [[paper](https://arxiv.org/abs/2103.12413)]
+  - Alexander Norcliffe, Cristian Bodnar, Ben Day, Jacob Moss, Pietro Liò --ICLR 2021
+
+Convolutional Conditional Neural Processes [[paper](https://openreview.net/forum?id=Skey4eBYPS)]
+  - Jonathan Gordon, Wessel P. Bruinsma, Andrew Y. K. Foong, James Requeima, Yann Dubois, Richard E. Turner --ICLR 2020
+
+Bootstrapping Neural Processes [[paper](https://arxiv.org/pdf/2008.02956.pdf)]
+  - Juho Lee, Yoonho Lee, Jungtaek Kim, Eunho Yang, Sung Ju Hwang, Yee Whye Teh --NeurIPS 2020
+
+MetaFun: Meta-Learning with Iterative Functional Updates [[paper](http://proceedings.mlr.press/v119/xu20i/xu20i.pdf)]
+  - Jin Xu, Jean-Francois Ton, Hyunjik Kim, Adam R. Kosiorek, Yee Whye Teh --ICML 2020
+
+Sequential Neural Processes [[paper](https://arxiv.org/abs/1906.10264)]
+  - Gautam Singh, Jaesik Yoon, Youngsung Son, Sungjin Ahn --NeurIPS 2019 
+
+Neural Processes [[paper](https://arxiv.org/abs/1807.01622)]
+  - Marta Garnelo, Jonathan Schwarz, Dan Rosenbaum, Fabio Viola, Danilo J. Rezende, S.M. Ali Eslami, Yee Whye Teh --arXiv 2018
+
+Conditional Neural Processes [[paper](https://arxiv.org/abs/1807.01613)]
+  - Marta Garnelo, Dan Rosenbaum, Chris J. Maddison, Tiago Ramalho, David Saxton, Murray Shanahan, Yee Whye Teh, Danilo J. Rezende, S. M. Ali Eslami --ICML 2018
+
 ## Configuration transfer (Adaptation)
 Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels [[paper](https://arxiv.org/abs/1910.05199)]
   - Massimiliano Patacchiola, Jack Turner, Elliot J. Crowley, Michael O'Boyle, Amos Storkey --NeurIPS 2020
@@ -532,6 +555,9 @@ Tailoring: encoding inductive biases by optimizing unsupervised objectives at pr
   - Ferran Alet, Kenji Kawaguchi, Maria Bauza, Nurallah Giray Kuru, Tomás Lozano-Pérez, Leslie Pack Kaelbling  --NeurIPS 2020 #Meta-Learning
 
 ### Online convex optimization
+PACOH: Bayes-Optimal Meta-Learning with PAC-Guarantees [[paper](http://proceedings.mlr.press/v139/rothfuss21a/rothfuss21a.pdf)]
+  - Jonas Rothfuss, Vincent Fortuin, Martin Josifoski, Andreas Krause --ICML 2021
+
 Meta-learning with Stochastic Linear Bandits [[paper](https://arxiv.org/abs/2005.04372)]
   - Leonardo Cella, Alessandro Lazaric, Massimiliano Pontil --arXiv 2020
 
