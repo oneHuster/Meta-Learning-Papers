@@ -268,6 +268,13 @@ Learning to Reweight Examples for Robust Deep Learning [[paper](https://arxiv.or
 
 
 ## Lifelong learning
+
+Optimizing Reusable Knowledge for Continual Learning via Metalearning [[paper](https://arxiv.org/abs/2106.05390)]
+  - Julio Hurtado, Alain Raymond-Saez, Alvaro Soto --NeurIPS 2021
+
+Learning where to learn: Gradient sparsity in meta and continual learning [[paper](https://arxiv.org/pdf/2110.14402.pdf)]
+  - Johannes von Oswald, Dominic Zhao, Seijin Kobayashi, Simon Schug, Massimo Caccia, Nicolas Zucchet, João Sacramento --NeurIPS 2021
+
 Online-Within-Online Meta-Learning [[paper](https://papers.nips.cc/paper/9468-online-within-online-meta-learning)]
   - Giulia Denevi, Dimitris Stamos, Carlo Ciliberto, Massimiliano Pontil
   
@@ -447,6 +454,10 @@ Meta-learning using privileged information for dynamics [[paper](https://arxiv.o
   - Ben Day, Alexander Norcliffe, Jacob Moss, Pietro Liò --ICLR 2020 #Learning to Learn and SimDL
 
 ## Optimization
+
+Learning where to learn: Gradient sparsity in meta and continual learning [[paper](https://arxiv.org/pdf/2110.14402.pdf)]
+  - Johannes von Oswald, Dominic Zhao, Seijin Kobayashi, Simon Schug, Massimo Caccia, Nicolas Zucchet, João Sacramento --NeurIPS 2021
+
 
 Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML [[paper](https://openreview.net/pdf/f0530e2cf88af3b74bf61bc8591b7a5a1339c49e.pdf)]
   - Aniruddh Raghu, Maithra Raghu, Samy Bengio, Oriol Vinyals --ICLR 2020
