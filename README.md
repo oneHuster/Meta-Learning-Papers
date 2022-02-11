@@ -15,6 +15,10 @@ Meta-learners’ learning dynamics are unlike learners’  [[paper](https://arxi
   - Neil C. Rabinowitz
 
 ## Few-shot learning
+
+Learning Prototype-oriented Set Representations for Meta-Learning [[paper](https://openreview.net/forum?id=WH6u2SvlLp4)]
+  - Dan dan Guo, Long Tian, Minghe Zhang, Mingyuan Zhou, Hongyuan Zha --ICLR 2022
+
 BOIL: Towards Representation Change for Few-shot Learning [[paper](https://openreview.net/forum?id=umIdUL8rMH)]
   - Jaehoon Oh, Hyungjun Yoo, ChangHwan Kim, Se-Young Yun --ICLR 2021
 
@@ -171,6 +175,10 @@ Few-Shot Representation Learning for Out-Of-Vocabulary Words [[paper](https://ar
 
 ## Reinforcement learning
 
+
+CoMPS: Continual Meta Policy Search [[paper](https://openreview.net/forum?id=PVJ6j87gOHz)]
+  - Glen Berseth, Zhiwei Zhang, Grace Zhang, Chelsea Finn, Sergey Levine
+
 Modeling and Optimization Trade-off in Meta-learning [[paper](https://proceedings.neurips.cc/paper/2020/hash/7fc63ff01769c4fa7d9279e97e307829-Abstract.html)]
   - Katelyn Gao, Ozan Sener --NeurIPS 2020
 
@@ -198,7 +206,11 @@ Meta-Q-Learning [[paper](https://openreview.net/forum?id=SJeD3CEFPH)]
 Guided Meta-Policy Search [[paper](https://arxiv.org/abs/1904.00956)]
   - Russell Mendonca, Abhishek Gupta, Rosen Kralev, Pieter Abbeel, Sergey Levine, Chelsea Finn
 
-## Architecture search
+## AutoML
+
+Learning meta-features for AutoML [[paper](https://openreview.net/forum?id=DTkEfj0Ygb8)]
+  - Herilalaina Rakotoarison, Louisot Milijaona, Andry RASOANAIVO, Michele Sebag, Marc Schoenauer --ICLR 2022
+
 Towards Fast Adaptation of Neural Architectures with Meta Learning [[paper](https://openreview.net/forum?id=r1eowANFvr)]
   - Dongze Lian, Yin Zheng, Yintao Xu, Yanxiong Lu, Leyu Lin, Peilin Zhao, Junzhou Huang, Shenghua Gao --ICLR 2020
 
@@ -212,6 +224,10 @@ Bayesian Meta-network Architecture Learning
   - Albert Shaw, Bo Dai, Weiyang Liu, Le Song --arXiv 2018
   
 ## Task-dependent
+
+Meta-Learning with Fewer Tasks through Task Interpolation [[paper](https://openreview.net/forum?id=ajXWF7bVR8d)]
+  - Huaxiu Yao, Linjun Zhang, Chelsea Finn --ICLR 2022
+
 Meta-Regularization by Enforcing Mutual-Exclusiveness [[paper](https://arxiv.org/abs/2101.09819)]
   - Edwin Pan, Pankaj Rajak, Shubham Shrivastava --arXiv 2021
 
@@ -362,6 +378,9 @@ Meta-Curvature [[paper](https://arxiv.org/abs/1902.03356)]
 
 ## Neural process
 
+Neural Variational Dropout Processes [[paper](https://openreview.net/forum?id=lyLVzukXi08)]
+  - Insu Jeon, Youngjin Park, Gunhee Kim --ICLR 2022
+
 Neural ODE Processes [[paper](https://arxiv.org/abs/2103.12413)]
   - Alexander Norcliffe, Cristian Bodnar, Ben Day, Jacob Moss, Pietro Liò --ICLR 2021
 
@@ -383,7 +402,11 @@ Neural Processes [[paper](https://arxiv.org/abs/1807.01622)]
 Conditional Neural Processes [[paper](https://arxiv.org/abs/1807.01613)]
   - Marta Garnelo, Dan Rosenbaum, Chris J. Maddison, Tiago Ramalho, David Saxton, Murray Shanahan, Yee Whye Teh, Danilo J. Rezende, S. M. Ali Eslami --ICML 2018
 
-## Configuration transfer (Adaptation)
+## Configuration transfer (Adaptation， Hyperparameter Opt)
+
+Online Hyperparameter Meta-Learning with Hypergradient Distillation [[paper](https://openreview.net/forum?id=01AMRlen9wJ)]
+  - Hae Beom Lee, Hayeon Lee, JaeWoong Shin, Eunho Yang, Timothy Hospedales, Sung Ju Hwang --ICLR 2022
+
 Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels [[paper](https://arxiv.org/abs/1910.05199)]
   - Massimiliano Patacchiola, Jack Turner, Elliot J. Crowley, Michael O'Boyle, Amos Storkey --NeurIPS 2020
 
@@ -415,6 +438,14 @@ Meta-Learning for Semi-Supervised Few-Shot Classification [[paper](https://arxiv
 
 Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace [[paper](https://arxiv.org/abs/1903.08254)]
   - Kate Rakelly, Aurick Zhou, Deirdre Quillen, Chelsea Finn, Sergey Levine  --ICML 2018
+
+### Self-supervised learning
+
+MAML is a Noisy Contrastive Learner in Classification [[paper](https://openreview.net/pdf?id=LDAwu17QaJz)]
+  - Chia Hsiang Kao, Wei-Chen Chiu, Pin-Yu Chen --ICLR 2022
+
+Contrastive Learning is Just Meta-Learning [[paper](https://openreview.net/forum?id=gICys3ITSmj)]
+  - Renkun Ni, Manli Shu, Hossein Souri, Micah Goldblum, Tom Goldstein --ICLR 2022
 
 ## Hyperparameter
 LCC: Learning to Customize and Combine Neural Networks for Few-Shot Learning [[paper](https://arxiv.org/pdf/1904.08479.pdf)]
@@ -450,10 +481,16 @@ FeatureBoost: A Meta-Learning Algorithm that Improves Model Robustness [[paper](
 
 ## Continuous time
 
+Continuous-Time Meta-Learning with Forward Mode Differentiation [[paper](https://openreview.net/forum?id=57PipS27Km)]
+  - Tristan Deleu, David Kanaa, Leo Feng, Giancarlo Kerg, Yoshua Bengio, Guillaume Lajoie, Pierre-Luc Bacon --ICLR 2022
+
 Meta-learning using privileged information for dynamics [[paper](https://arxiv.org/pdf/2104.14290.pdf)]
   - Ben Day, Alexander Norcliffe, Jacob Moss, Pietro Liò --ICLR 2020 #Learning to Learn and SimDL
 
 ## Optimization
+
+Bootstrapped Meta-Learning [[paper](https://openreview.net/forum?id=b-ny3x071E5)]
+  - Sebastian Flennerhag, Yannick Schroecker, Tom Zahavy, Hado van Hasselt, David Silver, Satinder Singh --ICLR 2022
 
 Learning where to learn: Gradient sparsity in meta and continual learning [[paper](https://arxiv.org/pdf/2110.14402.pdf)]
   - Johannes von Oswald, Dominic Zhao, Seijin Kobayashi, Simon Schug, Massimo Caccia, Nicolas Zucchet, João Sacramento --NeurIPS 2021
@@ -493,6 +530,13 @@ Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](
   - Dougal Maclaurin, David Duvenaud, Ryan P. Adams --ICML 2016
 
 ## Theory
+
+Unraveling Model-Agnostic Meta-Learning via The Adaptation Learning Rate [[paper](https://openreview.net/forum?id=3rULBvOJ8D2)]
+  - Yingtian Zou, Fusheng Liu, Qianxiao Li --ICLR 2022
+
+Task Relatedness-Based Generalization Bounds for Meta Learning [[paper](https://openreview.net/forum?id=A3HHaEdqAJL)]
+  - Jiechao Guan, Zhiwu Lu --ICLR 2022
+
 A Representation Learning Perspective on the Importance of Train-Validation Splitting in Meta-Learning [[paper](https://arxiv.org/pdf/2106.15615.pdf)]
   - Nikunj Saunshi, Arushi Gupta, and Wei Hu --ICML 2021
 
