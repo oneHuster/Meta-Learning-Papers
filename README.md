@@ -174,10 +174,14 @@ Few-Shot Representation Learning for Out-Of-Vocabulary Words [[paper](https://ar
 
 
 ## Reinforcement learning
+System-Agnostic Meta-Learning for MDP-based Dynamic Scheduling via Descriptive Policy [[paper](https://arxiv.org/abs/2201.07051)]
+  - Lee, Hyun-Suk --AISTATS 2022
 
+Meta Learning MDPs with Linear Transition Models [[paper](https://arxiv.org/abs/2201.08732)]
+  - Müller, Robert ; Pacchiano, Aldo --AISTATS 2022
 
 CoMPS: Continual Meta Policy Search [[paper](https://openreview.net/forum?id=PVJ6j87gOHz)]
-  - Glen Berseth, Zhiwei Zhang, Grace Zhang, Chelsea Finn, Sergey Levine
+  - Glen Berseth, Zhiwei Zhang, Grace Zhang, Chelsea Finn, Sergey Levine --ICLR 2022
 
 Modeling and Optimization Trade-off in Meta-learning [[paper](https://proceedings.neurips.cc/paper/2020/hash/7fc63ff01769c4fa7d9279e97e307829-Abstract.html)]
   - Katelyn Gao, Ozan Sener --NeurIPS 2020
@@ -531,6 +535,15 @@ Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](
 
 ## Theory
 
+Near-Optimal Task Selection with Mutual Information for Meta-Learning [[paper](https://www.comp.nus.edu.sg/~lowkh/pubs/aistats2022.pdf)]
+  - Chen, Yizhou; Zhang, Shizhuo; Low, Bryan Kian Hsiang  --AISTATS 2022
+
+Learning Tensor Representations for Meta-Learning [[paper](https://arxiv.org/abs/2201.07348)]
+  - Samuel Deng, Yilin Guo, Daniel Hsu, Debmalya Mandal --AISTATS 2022
+
+Is Bayesian Model-Agnostic Meta Learning Better than Model-Agnostic Meta Learning, Provably? [[paper](https://chentianyi1991.github.io/bamaml_aistats2022.pdf)]
+  - Lisha Chen, Tianyi Chen  --AISTATS 2022
+
 Unraveling Model-Agnostic Meta-Learning via The Adaptation Learning Rate [[paper](https://openreview.net/forum?id=3rULBvOJ8D2)]
   - Yingtian Zou, Fusheng Liu, Qianxiao Li --ICLR 2022
 
@@ -571,6 +584,8 @@ Convergence of Meta-Learning with Task-Specific Adaptation over Partial Paramete
 Meta-learning for mixed linear regression [[paper](https://proceedings.icml.cc/static/paper_files/icml/2020/6124-Paper.pdf)]
   - Weihao Kong, Raghav Somani, Zhao Song, Sham Kakade, Sewoong Oh --ICML 2020
 
+Tailoring: encoding inductive biases by optimizing unsupervised objectives at prediction time
+  - Ferran Alet, Kenji Kawaguchi, Maria Bauza, Nurallah Giray Kuru, Tomás Lozano-Pérez, Leslie Pack Kaelbling  --NeurIPS 2020 #Meta-Learning
 
 A Theoretical Analysis of the Number of Shots in Few-Shot Learning [[paper](https://openreview.net/forum?id=HkgB2TNYPS)]
   - Tianshi Cao, Marc T Law, Sanja Fidler --ICLR 2020
@@ -605,9 +620,6 @@ Fast Rates by Transferring from Auxiliary Hypotheses [[paper](https://arxiv.org/
 Algorithmic Stability and Meta-Learning  [[paper](http://www.jmlr.org/papers/volume6/maurer05a/maurer05a.pdf)]
   - Andreas Maurer  --JMLR 2005
 
-### Inductive bias
-Tailoring: encoding inductive biases by optimizing unsupervised objectives at prediction time
-  - Ferran Alet, Kenji Kawaguchi, Maria Bauza, Nurallah Giray Kuru, Tomás Lozano-Pérez, Leslie Pack Kaelbling  --NeurIPS 2020 #Meta-Learning
 
 ### Online convex optimization
 PACOH: Bayes-Optimal Meta-Learning with PAC-Guarantees [[paper](http://proceedings.mlr.press/v139/rothfuss21a/rothfuss21a.pdf)]
