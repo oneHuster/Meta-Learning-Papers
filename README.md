@@ -16,6 +16,9 @@ Meta-learners’ learning dynamics are unlike learners’  [[paper](https://arxi
 
 ## Few-shot learning
 
+Joint Distribution Matters: Deep Brownian Distance Covariance for Few-Shot Classification [[paper](https://arxiv.org/abs/2204.04567)]
+  - Jiangtao Xie, Fei Long, Jiaming Lv, Qilong Wang, Peihua Li --CVPR 2022
+
 Learning Prototype-oriented Set Representations for Meta-Learning [[paper](https://openreview.net/forum?id=WH6u2SvlLp4)]
   - Dan dan Guo, Long Tian, Minghe Zhang, Mingyuan Zhou, Hongyuan Zha --ICLR 2022
 
