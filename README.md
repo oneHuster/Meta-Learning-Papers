@@ -4,8 +4,8 @@ A summary of meta learning papers based on realm. Sorted by submission date on a
 
 # [Topics]()
 
-* [Survey](## Survey)
-* [Few-shot learning](## Few-shot learning)
+* [Survey](##Survey)
+* [Few-shot learning](##Few-shot learning)
 * [Reinforcement Learning](## Reinforcement learning)
 * [AutoML](## AutoML)
 * [Task-dependent Methods](## Task-dependent)
@@ -21,7 +21,7 @@ A summary of meta learning papers based on realm. Sorted by submission date on a
 * [Optimization](## Optimization)
 * [Theory](## Theory)
 
-## Survey
+## [Survey]()
 Meta-Learning in Neural Networks: A Survey [[paper](https://arxiv.org/abs/2004.05439)]
   - Timothy Hospedales, Antreas Antoniou, Paul Micaelli, Amos Storkey 
 
@@ -34,7 +34,7 @@ Meta-Learning: A Survey [[paper](https://arxiv.org/pdf/1810.03548.pdf)]
 Meta-learners’ learning dynamics are unlike learners’  [[paper](https://arxiv.org/pdf/1905.01320.pdf)]
   - Neil C. Rabinowitz
 
-## Few-shot learning
+## [Few-shot learning]()
 
 Joint Distribution Matters: Deep Brownian Distance Covariance for Few-Shot Classification [[paper](https://arxiv.org/abs/2204.04567)]
   - Jiangtao Xie, Fei Long, Jiaming Lv, Qilong Wang, Peihua Li --CVPR 2022
