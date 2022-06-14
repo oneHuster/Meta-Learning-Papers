@@ -1,4 +1,4 @@
-# Awesome Meta-Learning Papers ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Meta-Learning Papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A summary of meta learning papers based on realm. Sorted by submission date on arXiv.
 
@@ -6,20 +6,20 @@ A summary of meta learning papers based on realm. Sorted by submission date on a
 
 * [Survey](#Survey)
 * [Few-shot learning](#Few-shot-learning)
-* [Reinforcement Learning](## Reinforcement learning)
-* [AutoML](## AutoML)
-* [Task-dependent Methods](## Task-dependent)
-* [Data Aug & Reg](## Data Aug & Reg)
-* [Lifelong learning](## Lifelong learning)
-* [Domain generalization](## Domain generalization)     
-* [Neural process](## Neural process)
-* [Configuration transfer (Adaptation， Hyperparameter Opt)](## Configuration transfer (Adaptation， Hyperparameter Opt))
-* [Model compression](## Model compression)
-* [Kernel learning](## Kernel learning)
-* [Robustness](## Robustness)
-* [Bayesian inference](## Bayesian inference)
-* [Optimization](## Optimization)
-* [Theory](## Theory)
+* [Reinforcement Learning](#Reinforcement-learning)
+* [AutoML](#AutoML)
+* [Task-dependent Methods](#Task-dependent)
+* [Data Aug & Reg](#Data-Aug-&-Reg)
+* [Lifelong learning](#Lifelong-learning)
+* [Domain generalization](#Domain-generalization)     
+* [Neural process](#Neural-process)
+* [Configuration transfer (Adaptation， Hyperparameter Opt)](#Configuration-transfer)
+* [Model compression](#Model-compression)
+* [Kernel learning](#Kernel-learning)
+* [Robustness](#Robustness)
+* [Bayesian inference](#Bayesian-inference)
+* [Optimization](#Optimization)
+* [Theory](#Theory)
 
 ## [Survey]()
 Meta-Learning in Neural Networks: A Survey [[paper](https://arxiv.org/abs/2004.05439)]
@@ -432,7 +432,7 @@ Neural Processes [[paper](https://arxiv.org/abs/1807.01622)]
 Conditional Neural Processes [[paper](https://arxiv.org/abs/1807.01613)]
   - Marta Garnelo, Dan Rosenbaum, Chris J. Maddison, Tiago Ramalho, David Saxton, Murray Shanahan, Yee Whye Teh, Danilo J. Rezende, S. M. Ali Eslami --ICML 2018
 
-## Configuration transfer (Adaptation， Hyperparameter Opt)
+## Configuration transfer
 
 Online Hyperparameter Meta-Learning with Hypergradient Distillation [[paper](https://openreview.net/forum?id=01AMRlen9wJ)]
   - Hae Beom Lee, Hayeon Lee, JaeWoong Shin, Eunho Yang, Timothy Hospedales, Sung Ju Hwang --ICLR 2022
