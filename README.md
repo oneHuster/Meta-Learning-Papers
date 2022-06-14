@@ -4,8 +4,8 @@ A summary of meta learning papers based on realm. Sorted by submission date on a
 
 # [Topics]()
 
-* [Survey](##Survey)
-* [Few-shot learning](##Few-shot learning)
+* [Survey](#Survey)
+* [Few-shot learning](#Few-shot-learning)
 * [Reinforcement Learning](## Reinforcement learning)
 * [AutoML](## AutoML)
 * [Task-dependent Methods](## Task-dependent)
