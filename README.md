@@ -1,5 +1,25 @@
-# Meta-Learning Papers
+# Awesome Meta-Learning Papers ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A summary of meta learning papers based on realm. Sorted by submission date on arXiv.
+
+# [Topics]()
+
+* [Survey](## Survey)
+* [Few-shot learning](## Few-shot learning)
+* [Reinforcement Learning](## Reinforcement learning)
+* [AutoML](## AutoML)
+* [Task-dependent Methods](## Task-dependent)
+* [Data Aug & Reg](## Data Aug & Reg)
+* [Lifelong learning](## Lifelong learning)
+* [Domain generalization](## Domain generalization)     
+* [Neural process](## Neural process)
+* [Configuration transfer (Adaptation， Hyperparameter Opt)](## Configuration transfer (Adaptation， Hyperparameter Opt))
+* [Model compression](## Model compression)
+* [Kernel learning](## Kernel learning)
+* [Robustness](## Robustness)
+* [Bayesian inference](## Bayesian inference)
+* [Optimization](## Optimization)
+* [Theory](## Theory)
 
 ## Survey
 Meta-Learning in Neural Networks: A Survey [[paper](https://arxiv.org/abs/2004.05439)]
@@ -177,6 +197,10 @@ Few-Shot Representation Learning for Out-Of-Vocabulary Words [[paper](https://ar
 
 
 ## Reinforcement learning
+
+Offline Meta-Reinforcement Learning with Online Self-Supervision [[paper](https://arxiv.org/abs/2107.03974)]
+  - Vitchyr Pong, Ashvin Nair, Laura Smith, Catherine Huang, Sergey Levine  --ICML 2022
+
 System-Agnostic Meta-Learning for MDP-based Dynamic Scheduling via Descriptive Policy [[paper](https://arxiv.org/abs/2201.07051)]
   - Lee, Hyun-Suk --AISTATS 2022
 
@@ -280,6 +304,9 @@ Hierarchical Meta Learning [[paper](https://arxiv.org/abs/1904.09081)]
 
 
 ## Data Aug & Reg
+MetAug: Contrastive Learning via Meta Feature Augmentation [[paper](https://arxiv.org/abs/2203.05119)]
+  - Jiangmeng Li, Wenwen Qiang, Changwen Zheng, Bing Su, Hui Xiong --ICML 2022
+
 MetaInfoNet: Learning Task-Guided Information for Sample Reweighting [[paper](https://arxiv.org/abs/2012.05273)]
   - Hongxin Wei, Lei Feng, Rundong Wang, Bo An --arXiv 2020
 
@@ -331,6 +358,9 @@ Learning to Generalize: Meta-Learning for Domain Generalization [[paper](https:/
 
 ## Bayesian inference
 
+Stochastic Deep Networks with Linear Competing Units for Model-Agnostic Meta-Learning [[paper](https://openreview.net/forum?id=FFGDKzLasUa)]
+  - Konstantinos Ι. Kalais, Sotirios Chatzis --ICML 2022
+
 Meta-Learning with Variational Bayes [[paper](https://arxiv.org/abs/2103.02265)]
   - Lucas D. Lingle --arXiv 2021
 
@@ -375,13 +405,6 @@ Bayesian Model-Agnostic Meta-Learning [[paper](https://arxiv.org/abs/1806.03836)
 
 Meta-learning by adjusting priors based on extended PAC-Bayes theory [[paper](https://arxiv.org/pdf/1711.01244.pdf)]
   - Ron Amit , Ron Meir --ICML 2018
-
-## Learning curves
-Transferring Knowledge across Learning Processes [[paper](https://openreview.net/forum?id=HygBZnRctX)]
-  - Sebastian Flennerhag, Pablo G. Moreno, Neil D. Lawrence, Andreas Damianou --ICLR 2019
-
-Meta-Curvature [[paper](https://arxiv.org/abs/1902.03356)]
-  - Eunbyung Park, Junier B. Oliva --NeurIPS 2019
 
 ## Neural process
 
@@ -454,7 +477,14 @@ MAML is a Noisy Contrastive Learner in Classification [[paper](https://openrevie
 Contrastive Learning is Just Meta-Learning [[paper](https://openreview.net/forum?id=gICys3ITSmj)]
   - Renkun Ni, Manli Shu, Hossein Souri, Micah Goldblum, Tom Goldstein --ICLR 2022
 
-## Hyperparameter
+### Learning curves
+Transferring Knowledge across Learning Processes [[paper](https://openreview.net/forum?id=HygBZnRctX)]
+  - Sebastian Flennerhag, Pablo G. Moreno, Neil D. Lawrence, Andreas Damianou --ICLR 2019
+
+Meta-Curvature [[paper](https://arxiv.org/abs/1902.03356)]
+  - Eunbyung Park, Junier B. Oliva --NeurIPS 2019
+
+### Hyperparameter
 LCC: Learning to Customize and Combine Neural Networks for Few-Shot Learning [[paper](https://arxiv.org/pdf/1904.08479.pdf)]
   - Yaoyao Liu, Qianru Sun, An-An Liu, Yuting Su, Bernt Schiele, Tat-Seng Chua --CVPR 2019
 
@@ -486,15 +516,10 @@ Task-Robust Model-Agnostic Meta-Learning [[paper](https://papers.nips.cc/paper/2
 FeatureBoost: A Meta-Learning Algorithm that Improves Model Robustness [[paper](https://hunch.net/~jl/projects/robust/ml2krobust.pdf)]
   - Joseph O'Sullivan, John Langford, Rich Caruana, Avrim Blum --ICML 2000
 
-## Continuous time
-
-Continuous-Time Meta-Learning with Forward Mode Differentiation [[paper](https://openreview.net/forum?id=57PipS27Km)]
-  - Tristan Deleu, David Kanaa, Leo Feng, Giancarlo Kerg, Yoshua Bengio, Guillaume Lajoie, Pierre-Luc Bacon --ICLR 2022
-
-Meta-learning using privileged information for dynamics [[paper](https://arxiv.org/pdf/2104.14290.pdf)]
-  - Ben Day, Alexander Norcliffe, Jacob Moss, Pietro Liò --ICLR 2020 #Learning to Learn and SimDL
-
 ## Optimization
+
+Sharp-MAML: Sharpness-Aware Model-Agnostic Meta Learning [[paper](https://arxiv.org/abs/2206.03996)]
+  - Momin Abbas, Quan Xiao, Lisha Chen, Pin-Yu Chen, Tianyi Chen --ICML 2022
 
 Bootstrapped Meta-Learning [[paper](https://openreview.net/forum?id=b-ny3x071E5)]
   - Sebastian Flennerhag, Yannick Schroecker, Tom Zahavy, Hado van Hasselt, David Silver, Satinder Singh --ICLR 2022
@@ -535,6 +560,14 @@ Learning to Optimize [[paper](https://arxiv.org/abs/1606.01885)]
 
 Gradient-based Hyperparameter Optimization through Reversible Learning [[paper](https://arxiv.org/pdf/1502.03492.pdf)]
   - Dougal Maclaurin, David Duvenaud, Ryan P. Adams --ICML 2016
+
+### Continuous time
+
+Continuous-Time Meta-Learning with Forward Mode Differentiation [[paper](https://openreview.net/forum?id=57PipS27Km)]
+  - Tristan Deleu, David Kanaa, Leo Feng, Giancarlo Kerg, Yoshua Bengio, Guillaume Lajoie, Pierre-Luc Bacon --ICLR 2022
+
+Meta-learning using privileged information for dynamics [[paper](https://arxiv.org/pdf/2104.14290.pdf)]
+  - Ben Day, Alexander Norcliffe, Jacob Moss, Pietro Liò --ICLR 2020 #Learning to Learn and SimDL
 
 ## Theory
 
