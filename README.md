@@ -42,8 +42,14 @@ Joint Distribution Matters: Deep Brownian Distance Covariance for Few-Shot Class
 Learning Prototype-oriented Set Representations for Meta-Learning [[paper](https://openreview.net/forum?id=WH6u2SvlLp4)]
   - Dan dan Guo, Long Tian, Minghe Zhang, Mingyuan Zhou, Hongyuan Zha --ICLR 2022
 
+On the Role of Pre-training for Meta Few-Shot Learning [[paper](https://openreview.net/forum?id=TwkEGci1Y-)]
+  - Chia-You Chen, Hsuan-Tien Lin, Gang Niu, Masashi Sugiyama, --arXiv 2021
+
 BOIL: Towards Representation Change for Few-shot Learning [[paper](https://openreview.net/forum?id=umIdUL8rMH)]
   - Jaehoon Oh, Hyungjun Yoo, ChangHwan Kim, Se-Young Yun --ICLR 2021
+
+On Episodes, Prototypical Networks, and Few-Shot Learning [[paper](https://openreview.net/pdf?id=bJaZ8leI0QJ)]
+  - Steinar Laenen, Luca Bertinetto --NeurIPS 2021
 
 Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels [[paper](https://arxiv.org/abs/1910.05199)]
   - Massimiliano Patacchiola, Jack Turner, Elliot J. Crowley, Michael O'Boyle, Amos Storkey --NeurIPS 2020
@@ -585,6 +591,9 @@ Unraveling Model-Agnostic Meta-Learning via The Adaptation Learning Rate [[paper
 
 Task Relatedness-Based Generalization Bounds for Meta Learning [[paper](https://openreview.net/forum?id=A3HHaEdqAJL)]
   - Jiechao Guan, Zhiwu Lu --ICLR 2022
+
+How Tight Can PAC-Bayes be in the Small Data Regime? [[paper](https://arxiv.org/pdf/2106.03542.pdf)]
+  - Andrew Y. K. Foong, Wessel P. Bruinsma, David R. Burt, Richard E. Turner --NeurIPS 2021
 
 A Representation Learning Perspective on the Importance of Train-Validation Splitting in Meta-Learning [[paper](https://arxiv.org/pdf/2106.15615.pdf)]
   - Nikunj Saunshi, Arushi Gupta, and Wei Hu --ICML 2021
